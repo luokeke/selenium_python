@@ -1,0 +1,15 @@
+https://github.com/Yixiaohan/show-me-the-code
+
+
+http://www.aosabook.org/en/index.html
+
+学习python的目的是学习
+
+
+http://192.168.101.158:8088/cas4/login?service=http://192.168.101.157:8080/CloudHost/cdb_config
+
+
+http://192.168.101.157:8080/CloudHost/cdb_config
+
+
+VsCompilerToolsForPython

@@ -1,0 +1,85 @@
+如果你有一批IP地址想要获得这些IP具体的信息，比如归属国家，城市等，最好的办法当时是调用现有的api接口来获取，我在之前就写过一篇文章，是关于我的博客被莫名攻击的时，就有获取过一批IP，攻击的时候当时是恢复业务重要，IP该封的就要封，攻击过后这个攻击者的IP信息，自己就可以分析下都来自哪里，有没有什么特征，帮助提示自己网站的安全性，今天这个脚本就是根据提供的IP获得IP归属的具体信息，脚本如下：
+#!/usr/bin/env python
+ 
+import requests
+import csv
+ 
+def getIp(file):
+  iplist = []
+  fi = open(file, 'r')
+  for ip in fi:
+    ip = ip.strip()
+    iplist.append(ip)
+  return iplist
+ 
+def get_geolocation(ip):
+  r = requests.get('https://freegeoip.net/json/' + ip)
+  info = [str(r.json()['country_name']), str(r.json()['city'])]
+  return {'ip':ip, 'country_name':info[0], 'city_name':info[1]}
+ 
+if __name__ == '__main__':
+  iplist = getIp('/root/ipfile')
+  f = open('outputinfo.csv', 'a+')
+  fieldnames = ['ip', 'country_name', 'city_name']
+  dict_writer = csv.DictWriter(f, fieldnames=fieldnames)
+  dict_writer.writerow(dict(zip(fieldnames, fieldnames)))
+  for ip in iplist:
+    data = get_geolocation(ip)
+    dict_writer.writerow(data)
+脚本解释，定义了2个函数，getIp()函数从文件中读取IP信息，返回一个列表，get_geolocation()函数负责实际得到信息，返回一个字典，接着在主函数打开一个可写的csv文件，通过循环将得到的信息写入一个CSV文件中，在写入csv 文件时用到了csv.DictWriter字典写的功能，这个还是比较实用，可以将数据结构类型为字典的数据直接写入csv文件，换句话说就是你只要把你要写的数据转换成字典的形式，就可以很方便的写入了，比如我这句dict(zip(fieldnames, fieldnames))其实就是这个功能，大家以后用到操作csv文件时，可以自己实践实践。
+最后附上一则网友的代码
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+#查找IP地址归属地
+#writer by keery_log
+#Create time:2013-10-30
+#Last update:2013-10-30
+#用法: python chk_ip.py www.google.com |python chk_ip.py 8.8.8.8 |python chk_ip.py ip.txt
+ 
+import signal
+import urllib
+import json
+import sys,os,re
+import socket
+ 
+if len(sys.argv) <= 1 :
+  print "Please input ip address !"
+  sys.exit(0)
+ 
+def handler(signum, frame):
+  sys.exit(0)
+signal.signal(signal.SIGINT, handler)
+ 
+url = "http://ip.taobao.com/service/getIpInfo.php?ip="
+ 
+#查找IP地址
+def ip_location(ip):
+  data = urllib.urlopen(url + ip).read()
+  datadict=json.loads(data)
+ 
+  for oneinfo in datadict:
+    if "code" == oneinfo:
+      if datadict[oneinfo] == 0:
+        return datadict["data"]["country"] + datadict["data"]["region"] + datadict["data"]["city"] + datadict["data"]["isp"]
+ 
+#定义IP与域名正则
+re_ipaddress = re.compile(r'^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$')
+re_domain = re.compile(r'[a-zA-Z0-9][-a-zA-Z0-9]{0,62}(\.[a-zA-Z0-9][-a-zA-Z0-9]{0,62})+\.?')
+ 
+if os.path.isfile(sys.argv[1]): #如果参数是文件,迭代查找
+  file_path = sys.argv[1]
+  fh = open(file_path,'r')
+  for line in fh.readlines():
+    if re_ipaddress.match(line):
+      city_address = ip_location(line)
+      print line.strip() + ":" + city_address
+else:
+  ip_address = sys.argv[1]
+  if re_ipaddress.match(ip_address): #如果参数是单个IP地址
+    city_address = ip_location(ip_address)
+    print ip_address + ":" + city_address
+  elif(re_domain.match(ip_address)): #如果参数是域名
+    result = socket.getaddrinfo(ip_address, None)
+    ip_address = result[0][4][0]
+    city_address = ip_location(ip_address)
+    print ip_address.strip() + ":" + city_address

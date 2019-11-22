@@ -1,0 +1,23 @@
+http://jingyan.baidu.com/article/d2b1d1027002da5c7e37d4dc.html  IDE简介
+
+
+
+
+http://www.cnblogs.com/hyddd/archive/2009/05/24/1487967.html 
+
+  FIREBUG 也是火狐插件，配合IDE使用。 
+
+firepath  也是配合ide使用的
+
+
+
+IEtester
+
+
+
+https://github.com/alibaba/f2etest  阿里的这个工具可以试试看，但是我们没有在用
+
+还有这个：http://blog.jobbole.com/62404/ 
+
+
+Emmagee    监测某个进程资源使用情况的工具

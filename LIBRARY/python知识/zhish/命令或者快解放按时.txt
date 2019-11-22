@@ -1,0 +1,4 @@
+echo %PATH%   cmd 查看环境变量
+
+pip install  下载包
+
