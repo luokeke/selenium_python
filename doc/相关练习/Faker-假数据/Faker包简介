@@ -1,0 +1,18 @@
+在 Python 中有个神库，叫做 Faker，它可以自动帮我们来生成各种各样的看起来很真的”假“数据，让我们来看看吧！
+https://mp.weixin.qq.com/s/EYDY-IgGY1RGB0XAeWwsqA
+
+还有更多的内容大家可以参考官方文档，链接：https://faker.readthedocs.io/
+
+具体的支持的语言列表可以见：https://faker.readthedocs.io/en/master/locales.html。
+这里几个比较常见的语言代号列一下：
+简体中文：zh_CN
+繁体中文：zh_TW
+美国英文：en_US
+英国英文：en_GB
+德文：de_DE
+日文：ja_JP
+韩文：ko_KR
+法文：fr_FR
+
+接下来让我们详细看下 faker 可以都生成什么类型的数据，
+具体的可用 API 可以看 https://faker.readthedocs.io/en/master/locales/zh_CN.html，这里面列出来了可用的所有方法。
