@@ -2,6 +2,15 @@
 
 自动化测试练习
 
+参考文档:  https://www.runoob.com/python3/python3-tutorial.html 菜鸟教程python3
+          https://blog.51cto.com/androidguy/2165688  Python从菜鸟到高手 李宁
+
+参考书籍：selenium3 selenium2 web接口开发 作者 虫师
+
+视频课程：https://www.icourse163.org/learn/BIT-268001?tid=1206628225#/learn/announce 嵩天老师
+
+其他问题处理参考资料见各个脚本文件注释内容
+
 git使用方法：
 
 参考链接：https://blog.csdn.net/qq_32846595/article/details/71149312
