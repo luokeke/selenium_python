@@ -1,0 +1,55 @@
+<!DOCTYPE>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=1360px">
+<title>二维码签到</title>
+<link rel="stylesheet" href="/static/css/draw_results.css" />
+<script type="text/javascript">
+    var mzGlobalData = {};
+    mzGlobalData.eid={{eventId}};
+</script>
+<script type="text/javascript" src="/static/js/jquery-1.10.2.min.js"></script>
+<link REL="SHORTCUT ICON" HREF="{{ MEDIA_URL }}/static/image/favicon.ico">
+
+</head>
+<style type="text/css">
+	a{color:white;outline:none;}
+</style>
+<body id="body_bg">
+<div id="cent_box_isn" style="display:none;"></div>
+<div id="bg_left_center"></div>
+<div id="bg_left_bottom"></div>
+<div id="bg_right_top"></div>
+<div id="bg_right_bottom"></div>
+<div class="clear"></div>
+<!-- <div id="bg_buttom"></div> -->
+
+<div id="text">欢迎{{eventNanme}}</div>
+
+<!-- 光标聚焦输入框 -->
+<div id="cent_box">
+    <div class="box">
+        <input id="name" type="text" value="" />
+    </div>
+</div>
+
+
+<!-- 签到提示 -->
+<div id="text_box_2" style="display:none;">
+    <div>
+        <!-- 签到失败图标 -->
+        <span style="display:none" class="cry"></span>
+        <!-- 签到成功图标 -->
+        <span style="display:none" class="smile"></span>
+        <span id="realname"></span><br>
+        <span id="tips"></span>
+    </div>
+</div>
+
+
+<!-- <div class="same_text">姓名有重复 请输入手机号码或用户ID签到</div> -->
+<script type="text/javascript" src="/static/js/conference_sign.js"></script>
+
+</body>
+</html>
