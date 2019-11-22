@@ -8,5 +8,6 @@ git add .  #把文件夹下文件都添加进来
 git commit  -m  "提交信息"  #（注：“提交信息”里面换成你需要，如“first commit”）
 git push -u origin master   
 
+玩脱了
 遇见问题：
 1.使用git命令提交远程github仓库的时候提示"rejected"；解决办法：git pull。
