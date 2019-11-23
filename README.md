@@ -31,6 +31,8 @@ git push -u origin master
 
 本地Git与远程GitHub连接的建立 ：https://blog.csdn.net/dgreh/article/details/83302358
 
+使用git连接本地和远程github ：https://www.cnblogs.com/chencarl/p/10336858.html
+
 
 
 遇见问题：
