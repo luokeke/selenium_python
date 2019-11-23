@@ -1,0 +1,58 @@
+参考连接 ：https://www.cnblogs.com/paulwhw/p/9164382.html
+一、本地GitHub的安装
+1、下载安装，到官网下载GitHub的安装软件，链接为：https://git-scm.com/download/win
+注意进入这个网页后等待几秒钟下载会自动进行，下载完毕后直接双击运行，按照说明安装即可。
+2、配置环境变量，并验证
+	2.1右击计算机——“属性”——“高级系统设置”———“环境变量”——找到“系统变量”下的“Path”，点击“新建”，
+		添加本地git目录：D:\Program Files\GIT\cmd
+	2.2 在本地cmd中输入命令：，如果出现下面这样的情况说明安装成功！
+		git version 2.20.1.windows.1
+
+二、Git的初始配置
+1、开启Git终端
+安装成功后在桌面的开始菜单会多了3个git XXX（分别是：git bash、git gui、git cmd），点击git bash，即可启动git终端。
+2、绑定Git的用户名及邮箱
+进入终端后，先输入下面的代码：
+git config --global user.name "****" (这里是官网注册的用户名)
+git config --global user.email "****@qq.com" (这里是官网注册的邮箱)
+
+三、本地Git与远程GitHub建立连接，即配置ssh
+1、Git终端生成公钥文件
+在git bash命令行窗口里输入如下命令，然后连续敲3个回车即可：
+ssh-keygen -t rsa -C "****@qq.com" (这里是你的邮箱地址)
+2、远程的配置
+	2.1命令执行成功后，在本地电脑的C:\Users\Administrator\.ssh找到名为id_rsa.pub的文件，打开这个文件后将里面所有的内容先复制下来；
+	2.2进入到GitHub的官网，点击右上角图标下的settings--SSH and GPG Keys--New SSH
+		其中Title可以随意写个名字，Key里面的内容需要将2.1步中复制的id_rsa.pub文件中的内容拷贝进去，最后点击Add即可。
+	3、验证连接是否成功建立
+		在git终端上输入命令：ssh -T git@github.com
+		如果出现如下内容说明连接成功：Hi ***! You've successfully authenticated, but GitHub does not provide shell access.
+
+四、创建Git的本地仓库与远程仓库
+1、创建Git的本地仓库
+例如，我们想要把本地磁盘E盘里的practice文件夹作为本地仓库：
+方法一：直接在E盘里创建名为practice的文件夹即可，然后将自己想要上传的项目复制到这个文件夹里
+方法二：在git bash终端中先进入E盘的目录，然后利用mkdir命令新建名为practice的文件夹，然后将自己想要上传的项目复制到这个文件夹里
+2、创建Git的远程仓库
+进入官网，用我们自己的账户登录进去后，点击右上角的“+”号，然后选择“New repository”，填写仓库信息选择属性，设置完毕后点击Creating repository即可生成远程仓库。
+
+五、将本地项目上传到GitHub远程服务器
+1、本地仓库初始化
+进入本地仓库practice文件夹，右键选择Git Bash Hrer打开git命令行窗口，输入命令：
+git init     在内部会生成.git文件夹
+返回结果：Reinitialized existing Git repository in D:/workspace/GitPython/selenium_python/.git/
+2、下载远程仓库到本地仓库practice文件夹中
+git clone https://github.com/luokeke/selenium_python.git  连接需要替换成自己的
+3、上传本地仓库文件到github远程服务器
+git pull #同步git上文件到本地，避免不一致无法提交
+	返回结果：Already up to date.
+git add . #把文件夹下文件都添加进来
+git commit -m "提交信息" #（注：“提交信息”里面换成你需要，如“first commit”）
+git push -u origin master #提交到服务器，我第一次提交弹框让输入了github账号密码登陆，登陆后就成功了。
+
+最后，我们在GitHub官网中自己的test远程仓库中可以看到该项目已经上传成功了！
+
+
+
+
+

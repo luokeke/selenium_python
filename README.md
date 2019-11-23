@@ -2,8 +2,8 @@
 
 自动化测试练习
 
-参考文档:  https://www.runoob.com/python3/python3-tutorial.html 菜鸟教程python3
-          https://blog.51cto.com/androidguy/2165688  Python从菜鸟到高手 李宁
+参考文档:   https://www.runoob.com/python3/python3-tutorial.html 菜鸟教程python3
+			https://blog.51cto.com/androidguy/2165688  Python从菜鸟到高手 李宁
 
 参考书籍：selenium3 selenium2 web接口开发 作者 虫师
 
@@ -13,17 +13,23 @@
 
 git使用方法：
 
-参考链接：如何将本地的代码上传到github https://blog.csdn.net/qq_32846595/article/details/71149312
+1、本地仓库初始化 git init     在内部会生成.git文件夹 
 
-git clone https://github.com/luokeke/selenium_python.git #在文件夹中打开git bash 后执行命令，把项目下载到本地
+返回结果：Reinitialized existing Git repository in D:/workspace/GitPython/selenium_python/.git/
 
-git pull   #同步git上文件到本地，避免不一致无法提交
+2、下载远程仓库到本地仓库practice文件夹中  git clone https://github.com/luokeke/selenium_python.git  连接需要替换成自己的
 
-git add .  #把文件夹下文件都添加进来
+3、上传本地仓库文件到github远程服务器
 
-git commit  -m  "提交信息"  #（注：“提交信息”里面换成你需要，如“first commit”）
+git pull #同步git上文件到本地，避免不一致无法提交返回结果：Already up to date.
+	
+git add . #把文件夹下文件都添加进来
 
-git push -u origin master   
+git commit -m "提交信息" #（注：“提交信息”里面换成你需要，如“first commit”）
+
+git push -u origin master #提交到服务器，我第一次提交弹框让输入了github账号密码登陆，登陆后就成功了。
+
+最后，我们在GitHub官网中自己的test远程仓库中可以看到该项目已经上传成功了！
 
 其他参考链接：https://www.jianshu.com/p/68b9e463333f
 
@@ -33,7 +39,9 @@ git push -u origin master
 
 使用git连接本地和远程github ：https://www.cnblogs.com/chencarl/p/10336858.html
 
-123
+如何将本地的代码上传到github https://blog.csdn.net/qq_32846595/article/details/71149312
+
+
 
 遇见问题：
 1.使用git命令提交远程github仓库的时候提示"rejected"；解决办法：git pull。
