@@ -13,7 +13,7 @@
 
 git使用方法：
 
-参考链接：https://blog.csdn.net/qq_32846595/article/details/71149312
+参考链接：如何将本地的代码上传到github https://blog.csdn.net/qq_32846595/article/details/71149312
 
 git clone https://github.com/luokeke/selenium_python.git #在文件夹中打开git bash 后执行命令，把项目下载到本地
 
@@ -26,6 +26,10 @@ git commit  -m  "提交信息"  #（注：“提交信息”里面换成你需�
 git push -u origin master   
 
 其他参考链接：https://www.jianshu.com/p/68b9e463333f
+
+版本及分支管理：https://blog.csdn.net/weixin_37058227/article/details/80563092
+
+本地Git与远程GitHub连接的建立 ：https://blog.csdn.net/dgreh/article/details/83302358
 
 
 
