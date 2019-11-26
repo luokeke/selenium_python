@@ -31,5 +31,5 @@ time.sleep(1)
 driver.find_element_by_xpath(u'//span[text()=\'查询日志\']').click()
 time.sleep(5)
 
-raw_input('Press any key to stop: ')
+input('Press any key to stop: ')
 driver.quit()

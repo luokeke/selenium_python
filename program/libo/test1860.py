@@ -50,5 +50,5 @@ driver.find_element_by_xpath(u'//a[@class=\'panel-tool-close\']').click()
 time.sleep(1)
 driver.find_element_by_xpath(u'//span[text()=\'返回\']').click()
 
-raw_input('Press any key to stop: ')
+input('Press any key to stop: ')
 driver.quit()

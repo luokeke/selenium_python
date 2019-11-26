@@ -49,5 +49,5 @@ driver.find_element_by_id('mask').clear()
 driver.find_element_by_id('mask').send_keys("255.255.255.0")
 driver.find_element_by_id('ipV6Gateway').click()
 
-raw_input('Press any key to stop: ')
+input('Press any key to stop: ')
 driver.quit()

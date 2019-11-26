@@ -36,5 +36,5 @@ driver.find_element_by_xpath(u'//span[text()=\'确定\']').click()
 time.sleep(1)
 driver.find_element_by_xpath(u'//span[text()=\'确定\']').click()
 
-raw_input('Press any key to stop: ')
+input('Press any key to stop: ')
 driver.quit()
