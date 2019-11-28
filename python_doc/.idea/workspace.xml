@@ -2,66 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="905b568d-f3dd-4e9e-ab2d-0d3d237110de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/API_test/api_Basic Auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_test/api_Header.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_test/d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_test/上传文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/mooc/widget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/字符串/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/字符串/字符串.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/字符串/字符串操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/字符串/获取星期字符串.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/数据类型/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Random随机数.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/Random随机数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/and-or.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/and-or.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class类和方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/自带函数/class类和方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/def函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/自带函数/def函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/in-not in.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/in-not in.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc/PSF.TXT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/mooc/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc/auto.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/mooc/auto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc/drawSnake.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/mooc/drawSnake.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc/drawtriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/mooc/drawtriangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/mooc/practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc/tempconvert.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/mooc/tempconvert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc/w.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc/天天向上的力量.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/mooc/天天向上的力量.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc/操作符_加减乘除余-整数除.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/数据类型/操作符_加减乘除余-整数除.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc/数值运算函数_abs_divmod_pow_round_max_min.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/数据类型/数值运算函数_abs_divmod_pow_round_max_min.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc/数字类型-整数-浮点数-复数.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/数据类型/数字类型-整数-浮点数-复数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc/数据类型转换函数_int_float_str_complex.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/数据类型/数据类型转换函数_int_float_str_complex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc/温度转换.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/mooc/温度转换.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc/绘制蟒蛇.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/mooc/绘制蟒蛇.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python格式化字符.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/格式化字符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python赋值=.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/赋值=.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yield_next_send用法详解.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/yield_next_send用法详解.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/加减乘除运算.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/find字符串查找.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/字符串/find字符串查找.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/format函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/自带函数/format函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/格式化当前时间.py" beforeDir="false" afterPath="$PROJECT_DIR$/相关练习/格式化当前时间.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/模块/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/模块/random随机字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/random随机字符串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/比较运算符.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/比较运算符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/清空python命令行窗口.py" beforeDir="false" afterPath="$PROJECT_DIR$/相关练习/清空python命令行窗口.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/相关练习/API_test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_test/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/相关练习/API_test/api_form.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_test/api_form.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/相关练习/API_test/api_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_test/api_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/相关练习/API_test/api_params.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_test/api_params.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/相关练习/API_test/api_txt-xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_test/api_txt-xml.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/相关练习/API_test/api_获取响应报文.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_test/api_获取响应报文.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/相关练习/API_test/bucket_api_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_test/bucket_api_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/相关练习/API_test/d.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/相关练习/API_test/request_show_仓库.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_test/request_show_仓库.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/获取文件夹下所有文件路径.py" beforeDir="false" afterPath="$PROJECT_DIR$/相关练习/获取文件夹下所有文件路径.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/转义字符.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/字符串/转义字符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../program/libo/test1411.py" beforeDir="false" afterPath="$PROJECT_DIR$/../program/libo/test1411.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../program/libo/test1435.py" beforeDir="false" afterPath="$PROJECT_DIR$/../program/libo/test1435.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../program/libo/test1591.py" beforeDir="false" afterPath="$PROJECT_DIR$/../program/libo/test1591.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../program/libo/test1795.py" beforeDir="false" afterPath="$PROJECT_DIR$/../program/libo/test1795.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../program/libo/test1798.py" beforeDir="false" afterPath="$PROJECT_DIR$/../program/libo/test1798.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../program/libo/test1858.py" beforeDir="false" afterPath="$PROJECT_DIR$/../program/libo/test1858.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../program/libo/test1860.py" beforeDir="false" afterPath="$PROJECT_DIR$/../program/libo/test1860.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/mooc课后练习/100之内素数之和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/mooc课后练习/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/mooc课后练习/三位水仙花数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/mooc课后练习/四位玫瑰数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/mooc课后练习/整数的加减和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/mooc课后练习/用户的三次登录机会.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/mooc课堂练习/4.2圆周率的计算_CalpiV2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/mooc课堂练习/4.2圆周率的计算_CalpiV1.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/mooc课堂练习/4.2圆周率的计算_CalpiV1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/数据类型/列表转换为字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/数据类型/列表转换为字典.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/数据类型/字符串str/字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/数据类型/字符串str/字符串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/数据类型/字符串str/字符串操作.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/数据类型/数字类型/运算符_加减乘除余-整数除.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/数据类型/数字类型/运算符_加减乘除余-整数除.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,26 +24,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/API_test/上传文件.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/API_test/request_show_仓库.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -123,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-5" />
     <option name="y" value="54" />
     <option name="width" value="1699" />
@@ -137,24 +72,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="doc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="doc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="doc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="doc" type="462c0819:PsiDirectoryNode" />
-              <item name="API_test" type="462c0819:PsiDirectoryNode" />
+              <item name="python_doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_doc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -298,7 +232,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="54" width="1699" height="979" extended-state="1" />
+    <frame x="-5" y="54" width="1699" height="979" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28537026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -320,54 +254,12 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/API_test/d.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API_test/api_form.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API_test/api_json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="74" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API_test/api_Header.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API_test/api_Basic Auth.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API_test/上传文件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API_test/request_show_仓库.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/API_test/d.py" />
+    <entry file="file://$PROJECT_DIR$/API_test/api_form.py" />
+    <entry file="file://$PROJECT_DIR$/API_test/api_json.py" />
+    <entry file="file://$PROJECT_DIR$/API_test/api_Header.py" />
+    <entry file="file://$PROJECT_DIR$/API_test/api_Basic Auth.py" />
+    <entry file="file://$PROJECT_DIR$/API_test/上传文件.py" />
+    <entry file="file://$PROJECT_DIR$/API_test/request_show_仓库.py" />
   </component>
 </project>
