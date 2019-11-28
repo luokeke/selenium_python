@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8e2a0b9-696e-4ecf-9dba-c0abb5d41be3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mooc课堂练习/身体质量指数CalBMIv1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc课堂练习/身体质量指数CalBMIv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc课堂练习/进度条v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc课堂练习/进度条v2_单行动态刷新.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc课堂练习/进度条v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc课堂练习/进度条设计函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python标准库/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python标准库/time库-模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python标准库/turtle库-海龟绘图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python程序语法元素分析/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python程序语法元素分析/命名和保留字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python程序语法元素分析/注释.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python程序语法元素分析/缩进.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/控制结构/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/控制结构/二分支.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/控制结构/单分支.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/控制结构/多分支.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/控制结构/异常处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/控制结构/循环结构.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/控制结构/条件判断及组合.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据类型/元组tuple/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据类型/列表list/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据类型/字典dictionary/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据类型/数字类型/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据类型/集合set/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../相关练习/API_test/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_test/api_Basic Auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/../相关练习/API_test/api_Basic Auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_test/api_Header.py" beforeDir="false" afterPath="$PROJECT_DIR$/../相关练习/API_test/api_Header.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_test/api_form.py" beforeDir="false" afterPath="$PROJECT_DIR$/../相关练习/API_test/api_form.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_test/api_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/../相关练习/API_test/api_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_test/api_params.py" beforeDir="false" afterPath="$PROJECT_DIR$/../相关练习/API_test/api_params.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_test/api_txt-xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/../相关练习/API_test/api_txt-xml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_test/api_获取响应报文.py" beforeDir="false" afterPath="$PROJECT_DIR$/../相关练习/API_test/api_获取响应报文.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_test/bucket_api_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../相关练习/API_test/bucket_api_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_test/d.py" beforeDir="false" afterPath="$PROJECT_DIR$/../相关练习/API_test/d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_test/request_show_仓库.py" beforeDir="false" afterPath="$PROJECT_DIR$/../相关练习/API_test/request_show_仓库.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_test/上传文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../相关练习/API_test/上传文件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pip安装.py" beforeDir="false" afterPath="$PROJECT_DIR$/python程序语法元素分析/pip安装.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/../practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random随机数.py" beforeDir="false" afterPath="$PROJECT_DIR$/自带函数/Random随机数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/and-or.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/and-or.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-not in.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/in-not in.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random随机字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/自带函数/random随机字符串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yield_next_send用法详解.py" beforeDir="false" afterPath="$PROJECT_DIR$/python程序语法元素分析/yield_next_send用法详解.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/元组.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/元组tuple/元组.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/列表.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/列表list/列表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/列表转换为字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/列表转换为字典.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/字典dictionary/字典.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/../相关练习/字符串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串/WeekNamePrintv1.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/字符串str/WeekNamePrintv1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串/WeekNamePrintv2.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/字符串str/WeekNamePrintv2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串/WeekNamePrintv3.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/字符串str/WeekNamePrintv3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/字符串str/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串/python字符串编码方式Unicode.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/字符串str/python字符串编码方式Unicode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串/字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/字符串str/字符串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串/字符串处理函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/字符串str/字符串处理函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串/字符串处理方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/字符串str/字符串处理方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串/字符串操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/字符串str/字符串操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串/字符串查找_find.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/字符串str/字符串查找_find.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串/格式化字符.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/字符串str/格式化字符.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符串/转义字符.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/字符串str/转义字符.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据类型/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据类型/数值运算函数_abs_divmod_pow_round_max_min.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/数字类型/数值运算函数_abs_divmod_pow_round_max_min.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据类型/数字类型-整数-浮点数-复数.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/数字类型/数字类型-整数-浮点数-复数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据类型/数据类型转换函数_int_float_str_complex.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/数字类型/数据类型转换函数_int_float_str_complex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据类型/比较运算符.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/数字类型/比较运算符.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据类型/运算符_加减乘除余-整数除.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/数字类型/运算符_加减乘除余-整数除.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/赋值=.py" beforeDir="false" afterPath="$PROJECT_DIR$/python程序语法元素分析/赋值=.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/集合.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/集合set/集合.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../自带函数/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/自带函数/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../自带函数/class类和方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/自带函数/class类和方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../自带函数/def函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/自带函数/def函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../自带函数/eval函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/自带函数/eval函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../自带函数/format函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/自带函数/format函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../自带函数/import函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/自带函数/import函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../自带函数/print中的sep和end参数的区别.py" beforeDir="false" afterPath="$PROJECT_DIR$/自带函数/print中的sep和end参数的区别.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../自带函数/print函数_格式化输出.py" beforeDir="false" afterPath="$PROJECT_DIR$/自带函数/print函数_格式化输出.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../自带函数/range函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/自带函数/range函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../自带函数/type函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/自带函数/type函数.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/控制结构/多分支.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/控制结构/循环结构.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/控制结构/多分支.py" />
+        <option value="$PROJECT_DIR$/控制结构/循环结构.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/数据结构.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="827" />
+    <option name="y" value="30" />
+    <option name="width" value="1030" />
+    <option name="height" value="981" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="数据结构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="数据结构" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="数据结构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="控制结构" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8e2a0b9-696e-4ecf-9dba-c0abb5d41be3" name="Default Changelist" comment="" />
+      <created>1574906169687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574906169687</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="827" y="30" width="1030" height="981" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/控制结构/多分支.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/控制结构/循环结构.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

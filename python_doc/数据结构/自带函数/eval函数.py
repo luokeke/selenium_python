@@ -2,9 +2,10 @@
 # -*- coding: utf-8 -*-
 # @Time : 2019/11/26 12:10
 # @Author : liuhuiling
-
+print(eval('123'))
 '''
-eval函数就是把str去掉外层的引号
+eval(<字符串或字符串变量>)
+把<字符串或字符串变量>外层的引号去掉
 '''
 
 # print(eval("21"))#21
