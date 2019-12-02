@@ -2,58 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8e2a0b9-696e-4ecf-9dba-c0abb5d41be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mooc课后练习/n!.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc课后练习/圆周率计算.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc课后练习/恺撒密码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc课后练习/星号三角形.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc课后练习/身体质量指数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/函数和代码复用/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/函数和代码复用/函数的定义.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc课后练习/七段数码管倒计时.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc课堂练习/5.1七段数码管v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mooc课堂练习/5.1七段数码管v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/倒序输出.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数和代码复用/模块化思维.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/自带函数/lambda函数.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mooc课堂练习/drawtriangle.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/控制结构/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/程序的控制结构/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/控制结构/二分支.py" beforeDir="false" afterPath="$PROJECT_DIR$/程序的控制结构/二分支.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/控制结构/单分支.py" beforeDir="false" afterPath="$PROJECT_DIR$/程序的控制结构/单分支.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/控制结构/多分支.py" beforeDir="false" afterPath="$PROJECT_DIR$/程序的控制结构/多分支.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/控制结构/异常处理.py" beforeDir="false" afterPath="$PROJECT_DIR$/程序的控制结构/异常处理.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/控制结构/循环控制保留字break_continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/程序的控制结构/循环控制保留字break_continue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/控制结构/循环的高级用法.py" beforeDir="false" afterPath="$PROJECT_DIR$/程序的控制结构/循环的高级用法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/控制结构/无限循环while.py" beforeDir="false" afterPath="$PROJECT_DIR$/程序的控制结构/无限循环while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/控制结构/条件判断及组合.py" beforeDir="false" afterPath="$PROJECT_DIR$/程序的控制结构/条件判断及组合.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/控制结构/遍历循环for_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/程序的控制结构/遍历循环for_in.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/and-or.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/and-or.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/in-not in.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/in-not in.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/元组tuple/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/元组tuple/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/元组tuple/元组.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/元组tuple/元组.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/列表list/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/列表list/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/列表list/列表.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/列表list/列表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/列表转换为字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/列表转换为字典.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/字典dictionary/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/字典dictionary/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/字典dictionary/字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/字典dictionary/字典.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/字符串str/WeekNamePrintv1.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/字符串str/WeekNamePrintv1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/字符串str/WeekNamePrintv2.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/字符串str/WeekNamePrintv2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/字符串str/WeekNamePrintv3.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/字符串str/WeekNamePrintv3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/字符串str/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/字符串str/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/字符串str/python字符串编码方式Unicode.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/字符串str/python字符串编码方式Unicode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/字符串str/字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/字符串str/字符串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/字符串str/字符串处理函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/字符串str/字符串处理函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/字符串str/字符串处理方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/字符串str/字符串处理方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/字符串str/字符串查找_find.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/字符串str/字符串查找_find.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/字符串str/格式化字符.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/字符串str/格式化字符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/字符串str/转义字符.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/字符串str/转义字符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/数字类型/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/数字类型/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/数字类型/数值运算函数_abs_divmod_pow_round_max_min.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/数字类型/数值运算函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/数字类型/数字类型-整数-浮点数-复数.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/数字类型/数字类型.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/数字类型/数据类型转换函数_int_float_str_complex.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/数字类型/数据类型转换函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/数字类型/比较运算符.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/数字类型/比较运算符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/数字类型/运算符_加减乘除余-整数除.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/数字类型/运算符_加减乘除余-整数除.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/集合set/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/集合set/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据类型/集合set/集合.py" beforeDir="false" afterPath="$PROJECT_DIR$/基本数据类型/集合set/集合.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/自带函数/class类和方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/函数和代码复用/class类和方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/自带函数/def函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/函数和代码复用/def函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/自带函数/format函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/自带函数/format函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python标准库/turtle库-海龟绘图.py" beforeDir="false" afterPath="$PROJECT_DIR$/python标准库/turtle库-海龟绘图.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数和代码复用/函数的定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/函数和代码复用/函数的定义.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,21 +21,45 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="681">
+              <caret line="79" column="24" lean-forward="true" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+              <folding>
+                <element signature="e#96#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/倒序输出.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mooc课后练习/恺撒密码.py">
+        <entry file="file://$PROJECT_DIR$/mooc课后练习/七段数码管倒计时.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="264">
+              <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+              <folding>
+                <element signature="e#112#125#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mooc课堂练习/5.1七段数码管v1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="38" column="18" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -129,21 +112,31 @@
         <option value="$PROJECT_DIR$/基本数据类型/数字类型/运算符_加减乘除余-整数除.py" />
         <option value="$PROJECT_DIR$/基本数据类型/字符串str/字符串处理函数.py" />
         <option value="$PROJECT_DIR$/mooc课后练习/n!.py" />
-        <option value="$PROJECT_DIR$/函数和代码复用/函数的定义.py" />
         <option value="$PROJECT_DIR$/mooc课后练习/圆周率计算.py" />
         <option value="$PROJECT_DIR$/mooc课后练习/身体质量指数.py" />
         <option value="$PROJECT_DIR$/mooc课后练习/星号三角形.py" />
         <option value="$PROJECT_DIR$/基本数据类型/字符串str/字符串处理方法.py" />
         <option value="$PROJECT_DIR$/自带函数/format函数.py" />
-        <option value="$PROJECT_DIR$/practice.py" />
         <option value="$PROJECT_DIR$/mooc课后练习/恺撒密码.py" />
+        <option value="$PROJECT_DIR$/自带函数/lambda函数.py" />
+        <option value="$PROJECT_DIR$/mooc课堂练习/2.绘制蟒蛇_drawSnake.py" />
+        <option value="$PROJECT_DIR$/python标准库/turtle库-海龟绘图.py" />
+        <option value="$PROJECT_DIR$/函数和代码复用/函数的定义.py" />
+        <option value="$PROJECT_DIR$/mooc课堂练习/5.1七段数码管.py" />
+        <option value="$PROJECT_DIR$/mooc课堂练习/5.1七段数码管v1.py" />
+        <option value="$PROJECT_DIR$/函数和代码复用/模块及代码复用.py" />
+        <option value="$PROJECT_DIR$/函数和代码复用/模块化思维.py" />
+        <option value="$PROJECT_DIR$/mooc课堂练习/5.1七段数码管v2.py" />
+        <option value="$PROJECT_DIR$/倒叙输出.py" />
+        <option value="$PROJECT_DIR$/practice.py" />
+        <option value="$PROJECT_DIR$/mooc课后练习/七段数码管倒计时.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="263" />
-    <option name="y" value="43" />
-    <option name="width" value="994" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="939" />
+    <option name="y" value="126" />
+    <option name="width" value="917" />
     <option name="height" value="975" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -154,6 +147,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,18 +158,23 @@
             <path>
               <item name="Python基础语法" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python基础语法" type="462c0819:PsiDirectoryNode" />
-              <item name="mooc课后练习" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc课堂练习" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python基础语法" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python基础语法" type="462c0819:PsiDirectoryNode" />
-              <item name="自带函数" type="462c0819:PsiDirectoryNode" />
+              <item name="基本数据类型" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python基础语法" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python基础语法" type="462c0819:PsiDirectoryNode" />
+              <item name="基本数据类型" type="462c0819:PsiDirectoryNode" />
+              <item name="列表list" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,8 +203,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.practice (1)">
-    <configuration name="星号三角形" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.七段数码管倒计时">
+    <configuration name="七段数码管倒计时" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据结构" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,7 +216,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mooc课后练习/星号三角形.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mooc课后练习/七段数码管倒计时.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="倒叙输出" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据结构" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\GITHUB\selenium_python\python_doc\Python基础语法\倒序输出.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5.1七段数码管" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据结构" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mooc课堂练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\GITHUB\selenium_python\python_doc\Python基础语法\mooc课堂练习\5.1七段数码管v1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5.1七段数码管v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据结构" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mooc课堂练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mooc课堂练习/5.1七段数码管v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,27 +393,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="n!" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="数据结构" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mooc课后练习" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mooc课后练习/n!.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="practice (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据结构" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -375,11 +416,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.七段数码管倒计时" />
         <item itemvalue="Python.practice (1)" />
-        <item itemvalue="Python.星号三角形" />
-        <item itemvalue="Python.身体质量指数" />
-        <item itemvalue="Python.圆周率计算" />
-        <item itemvalue="Python.n!" />
+        <item itemvalue="Python.倒叙输出" />
+        <item itemvalue="Python.5.1七段数码管v2" />
+        <item itemvalue="Python.5.1七段数码管" />
       </list>
     </recent_temporary>
   </component>
@@ -419,10 +460,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="263" y="43" width="994" height="975" extended-state="0" />
+    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.35041842" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.17860906" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -430,8 +472,8 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3376932" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.3983353" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.19849785" />
+      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.39806867" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -439,178 +481,35 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17860906" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.29613733" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39806867" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="程序的控制" />
     <option name="LAST_COMMIT_MESSAGE" value="程序的控制" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mooc课堂练习/3.3WeekNamePrintv1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mooc课堂练习/3.3WeekNamePrintv2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mooc课堂练习/3.3WeekNamePrintv3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mooc课堂练习/drawSnake.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mooc课堂练习/tempconvert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/控制结构/二分支.py" />
-    <entry file="file://$PROJECT_DIR$/控制结构/单分支.py" />
-    <entry file="file://$PROJECT_DIR$/控制结构/多分支.py" />
-    <entry file="file://$PROJECT_DIR$/控制结构/异常处理.py" />
-    <entry file="file://$PROJECT_DIR$/控制结构/循环控制保留字break_continue.py" />
-    <entry file="file://$PROJECT_DIR$/控制结构/循环的高级用法.py" />
-    <entry file="file://$PROJECT_DIR$/控制结构/无限循环while.py" />
-    <entry file="file://$PROJECT_DIR$/控制结构/条件判断及组合.py" />
-    <entry file="file://$PROJECT_DIR$/控制结构/遍历循环for_in.py" />
-    <entry file="file://$PROJECT_DIR$/mooc课堂练习/4.1身体质量指数CalBMIv1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mooc课堂练习/4.1身体质量指数CalBMIv2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python标准库/time库.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mooc课堂练习/4.2圆周率的计算_CalpiV1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据类型/列表转换为字典.py" />
-    <entry file="file://$PROJECT_DIR$/数据类型/数字类型/运算符_加减乘除余-整数除.py" />
-    <entry file="file://$PROJECT_DIR$/mooc.py" />
-    <entry file="file://$PROJECT_DIR$/mooc课后练习/整数的加减和.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mooc课后练习/四位玫瑰数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据类型/字符串str/字符串处理方法.py" />
-    <entry file="file://$PROJECT_DIR$/数据类型/字符串str/字符串处理函数.py" />
-    <entry file="file://$PROJECT_DIR$/数据类型/字符串str/字符串操作.py" />
-    <entry file="file://$PROJECT_DIR$/数据类型/字符串str/字符串.py" />
-    <entry file="file://$PROJECT_DIR$/mooc课堂练习/2.绘制蟒蛇_drawSnake.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基本数据类型/数字类型/运算符_加减乘除余-整数除.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基本数据类型/数字类型/数字类型.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基本数据类型/数字类型/数值运算函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基本数据类型/数字类型/数据类型转换函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mooc课后练习/三位水仙花数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mooc课后练习/100之内素数之和.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/函数和代码复用/def函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-528">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mooc课后练习/用户的三次登录机会.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="32" column="16" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mooc课后练习/n!.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/函数和代码复用/函数的定义.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1272">
-          <caret line="45" column="19" lean-forward="true" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python程序语法元素分析/赋值=.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -624,31 +523,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mooc课后练习/身体质量指数.py">
+    <entry file="file://$PROJECT_DIR$/mooc课后练习/恺撒密码.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="20" selection-start-line="20" selection-end-line="36" selection-end-column="48" />
+        <state relative-caret-position="429">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mooc课后练习/圆周率计算.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
+        <state relative-caret-position="265">
           <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/自带函数/print中的sep和end参数的区别.py">
+    <entry file="file://$PROJECT_DIR$/mooc课后练习/整数的加减和.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/自带函数/print函数_格式化输出.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="92" column="25" lean-forward="true" selection-start-line="92" selection-start-column="25" selection-end-line="92" selection-end-column="25" />
+        <state relative-caret-position="421">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -659,17 +551,239 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基本数据类型/字符串str/字符串.py">
+    <entry file="file://$PROJECT_DIR$/mooc课后练习/用户的三次登录机会.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="450">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基本数据类型/字符串str/字符串处理函数.py">
+    <entry file="file://$PROJECT_DIR$/mooc课后练习/身体质量指数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="20" selection-start-line="20" selection-end-line="36" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc课堂练习/1.温度转换_tempconvert.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc课堂练习/2.绘制蟒蛇_drawSnake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="5" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python标准库/turtle库-海龟绘图.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc课堂练习/3.1天天向上的力量.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc课堂练习/3.2进度条v1_TextProBar.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc课堂练习/3.3WeekNamePrintv1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc课堂练习/drawtriangle.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc课堂练习/4.1身体质量指数CalBMIv1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc课堂练习/drawSnake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc课堂练习/tempconvert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自带函数/lambda函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自带函数/print函数_格式化输出.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="92" column="25" lean-forward="true" selection-start-line="92" selection-start-column="25" selection-end-line="92" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自带函数/type函数.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自带函数/eval函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc课后练习/四位玫瑰数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc课后练习/三位水仙花数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数和代码复用/函数的定义.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="121" column="16" lean-forward="true" selection-start-line="121" selection-start-column="16" selection-end-line="121" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python标准库/time库.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="47" selection-start-line="47" selection-end-line="47" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/633835329/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="114" column="4" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python程序语法元素分析/pip安装.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python程序语法元素分析/yield_next_send用法详解.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python程序语法元素分析/命名和保留字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python程序语法元素分析/注释.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python程序语法元素分析/缩进.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python程序语法元素分析/赋值=.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基本数据类型/元组tuple/元组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="58" lean-forward="true" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数和代码复用/模块化思维.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc课堂练习/5.1七段数码管v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="30" />
+          <folding>
+            <element signature="e#300#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc课堂练习/3.2进度条v2_单行动态刷新.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自带函数/format函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="60" column="3" lean-forward="true" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自带函数/print中的sep和end参数的区别.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python标准库/random随机数.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python标准库/random随机字符串.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python标准库/random库.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-693">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自带函数/range函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基本数据类型/字符串str/字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基本数据类型/列表list/列表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-429">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -680,24 +794,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/自带函数/format函数.py">
+    <entry file="file://$PROJECT_DIR$/基本数据类型/字符串str/字符串处理函数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        <state relative-caret-position="231">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc课堂练习/5.1七段数码管v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/倒序输出.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="681">
+          <caret line="79" column="24" lean-forward="true" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+          <folding>
+            <element signature="e#96#114#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mooc课后练习/恺撒密码.py">
+    <entry file="file://$PROJECT_DIR$/mooc课后练习/七段数码管倒计时.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="264">
+          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="e#112#125#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
