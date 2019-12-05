@@ -16,7 +16,7 @@
 - 绘制高级的数码管
 '''
 import turtle
-from time import gmtime,strftime
+from time import gmtime,strftime,sleep
 def drawGap(): #绘制间隔
     turtle.penup()
     turtle.fd(5)
@@ -60,5 +60,6 @@ def main():  #主函数，设置初始值及结束信息等
     # drawDate("20200101")#设定绘制数字
     drawDate(strftime("%Y-%m=%d+", gmtime()))#设定绘制数字
     turtle.hideturtle()
-    turtle.done()
+    sleep(5) #五秒后画布关闭
+    # turtle.done() #画布不关闭
 main() #调用主函数，启动整个函数的运行

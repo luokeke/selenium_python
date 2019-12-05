@@ -2,72 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e5a2f0a-aa95-4d7e-a5d5-90165c3ec576" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/字符串str/例子.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/代码复用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/函数递归.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/分而治之.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_doc/Python基础语法/mooc课后练习/将字符串反转后输出rsv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_doc/Python基础语法/mooc课后练习/斐波那契数列.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_doc/Python基础语法/mooc课后练习/汉诺塔问题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_doc/Python基础语法/python标准库/PyInstaller库.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_doc/相关练习/打包成exe文件/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_doc/相关练习/打包成exe文件/sevendigitdraw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_doc/Python基础语法/mooc课堂练习/5.2科赫雪花kochDrawv1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/program/股票价格记录.xls" beforeDir="false" afterPath="$PROJECT_DIR$/program/股票价格记录.xls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/mooc课后练习/n!.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/mooc课后练习/n!.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/mooc课堂练习/5.1七段数码管v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/mooc课堂练习/5.1七段数码管v2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/python程序语法元素分析/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/1.python程序语法元素/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/python程序语法元素分析/pip安装.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/1.python程序语法元素/pip安装.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/python程序语法元素分析/yield_next_send用法详解.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/1.python程序语法元素/yield_next_send用法详解.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/python程序语法元素分析/命名和保留字.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/1.python程序语法元素/命名和保留字.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/python程序语法元素分析/注释.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/1.python程序语法元素/注释.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/python程序语法元素分析/缩进.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/1.python程序语法元素/缩进.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/python程序语法元素分析/赋值=.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/1.python程序语法元素/赋值=.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/函数和代码复用/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/函数和代码复用/class类和方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/class类和方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/函数和代码复用/def函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/def函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/函数和代码复用/函数的定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/函数的定义.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/函数和代码复用/模块化思维.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/模块化思维.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/and-or.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/and-or.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/in-not in.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/in-not in.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/元组tuple/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/元组tuple/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/元组tuple/元组.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/元组tuple/元组.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/列表list/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/列表list/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/列表list/列表.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/列表list/列表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/列表转换为字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/列表转换为字典.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/字典dictionary/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/字典dictionary/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/字典dictionary/字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/字典dictionary/字典.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/字符串str/WeekNamePrintv1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/字符串str/WeekNamePrintv2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/字符串str/WeekNamePrintv3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/字符串str/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/字符串str/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/字符串str/python字符串编码方式Unicode.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/字符串str/python字符串编码方式Unicode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/字符串str/字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/字符串str/字符串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/字符串str/字符串处理函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/字符串str/字符串处理函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/字符串str/字符串处理方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/字符串str/字符串处理方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/字符串str/字符串查找_find.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/字符串str/字符串查找_find.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/字符串str/格式化字符.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/字符串str/格式化字符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/字符串str/转义字符.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/数字类型/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/数字类型/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/数字类型/数值运算函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/数字类型/数值运算函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/数字类型/数字类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/数字类型/数字类型.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/数字类型/数据类型转换函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/数字类型/数据类型转换函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/数字类型/比较运算符.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/数字类型/比较运算符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/数字类型/运算符_加减乘除余-整数除.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/数字类型/运算符_加减乘除余-整数除.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/集合set/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/集合set/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/基本数据类型/集合set/集合.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/集合set/集合.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/程序的控制结构/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/4.程序的控制结构/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/程序的控制结构/二分支.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/4.程序的控制结构/二分支.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/程序的控制结构/单分支.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/4.程序的控制结构/单分支.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/程序的控制结构/多分支.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/4.程序的控制结构/多分支.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/程序的控制结构/异常处理.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/4.程序的控制结构/异常处理.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/程序的控制结构/循环控制保留字break_continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/4.程序的控制结构/循环控制保留字break_continue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/程序的控制结构/循环的高级用法.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/4.程序的控制结构/循环的高级用法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/程序的控制结构/无限循环while.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/4.程序的控制结构/无限循环while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/程序的控制结构/条件判断及组合.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/4.程序的控制结构/条件判断及组合.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/程序的控制结构/遍历循环for_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/4.程序的控制结构/遍历循环for_in.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/python标准库/turtle库-海龟绘图.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/python标准库/turtle库-海龟绘图.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="213" />
     <option name="y" value="88" />
     <option name="width" value="1195" />
@@ -237,8 +177,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="213" y="88" width="1195" height="979" extended-state="1" />
-    <editor active="true" />
+    <frame x="213" y="88" width="1195" height="979" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41659465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -263,10 +202,10 @@
     <entry file="file://$PROJECT_DIR$/doc/参数化.py" />
     <entry file="file://$PROJECT_DIR$/register_jingan.py" />
     <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/组合数据类型/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/自带函数/range函数.py">
+    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/python自带函数/range函数.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/自带函数/type函数.py">
+    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/python自带函数/type函数.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/practice.py">
