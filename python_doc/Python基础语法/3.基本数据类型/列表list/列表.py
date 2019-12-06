@@ -9,41 +9,21 @@ import time
 列表使用[]表示，采用逗号，分隔各元素
 使用保留字 in 判断一个元素是否在列表中
 列表和元组
-进行的操作包括 索引，切片，加，乘，检查成员
-'''
+进行的操作包括 索引[]，切片[m,n,k]，加 + ，乘 * ，检查成员 in
 
-a = [[1,2,3], [4,5,6], [7,8,9]]
-for c in a:
-    for j in range(3):
-        print(c[j])   #输出 1 2 3 4 5 6 7 8 9
+- 添加元素 list.append("www_zzidc_com") 
+- 删除元素 del list[0] 
+- 截取列表 list[i:] 从第i+1个元素开始截取列表
 
-s =["seashell","gold","pink","brown","purple","tomato"]
-print(s[0:5:1])
+Python列表脚本操作符      列表对 + 和 * 的操作符与字符串相似。+ 号用于组合列表，* 号用于重复列表。
 
-a = []
-print(len(a)) #0
-a = [0]
-print(len(a))#1
-a=[ 0,]
-print(len(a))#1
-
-import xlrd
-
-'''
-参考链接：https://www.jb51.net/article/142493.htm
-python列表List使用及说明
-list.append("www_zzidc_com") 添加元素
-del list[0] 删除元素
-list[i:] 从第i+1个元素开始截取列表
-
-Python列表脚本操作符
-列表对 + 和 * 的操作符与字符串相似。+ 号用于组合列表，* 号用于重复列表。
 Python表达式               	结果            	           描述
 len([1, 2, 3])              3	                           长度
 [1, 2, 3] + [4, 5, 6]    	[1, 2, 3, 4, 5, 6]	           组合
 ['Hi!'] * 4             	['Hi!', 'Hi!', 'Hi!', 'Hi!']   重复
 3 in [1, 2, 3]	            True	                       元素是否存在于列表中
-for x in [1, 2, 3]: print x,	1 2 3	                   迭代             
+for x in [1, 2, 3]: print x,	1 2 3	                   迭代
+
 Python列表函数&方法
 函数
 cmp(list1, list2)   比较两个列表的元素
@@ -62,6 +42,7 @@ list.remove(obj)    移除列表中某个值的第一个匹配项
 list.reverse()  反向列表中元素
 list.sort(cmp=None, key=None, reverse=False)    对原列表进行排序
 
+参考链接：https://www.jb51.net/article/142493.htm
 '''
 list = ['Google', 'Runoob', 'Taobao']
 list.append("www_zzidc_com") #添加元素。只能一次一个
@@ -72,14 +53,19 @@ server_ips = ['10.61.1.101', '10.61.1.101', 80, '10.61.1.104', '10.61.1.105']
 print (server_ips)
 print (server_ips[1])
 print (server_ips[2])
-# 输入的数据转化为列表元素
+
+# split 将输入的字符串数据转换为列表 ,输入的数据转化为列表元素
 new_site =input( "输入站点名称(站点之间请用空格隔开,退出输入exit)：")
-list0 = new_site.split(" ") # 输入的数据转化为列表元素
-#Python - 去除list中的空字符 https://www.cnblogs.com/yspass/p/9434366.html
+list0 = new_site.split(" ")
+
+#Python - 去除list中的空字符和None https://www.cnblogs.com/yspass/p/9434366.html
 list1 = list(filter(None, list))
+
 #列表元素去重  https://www.cnblogs.com/yunlongaimeng/p/8728647.html
 list = sorted(set(list1),key=list1.index)
+
 #列表获取 excel元素  https://www.cnblogs.com/insane-Mr-Li/p/9092619.html
+import xlrd
 fname = '更新站点.xlsx'#设置文件名和路径
 date = xlrd.open_workbook(fname)# 打开文件
 guonei = date.sheet_by_name("国内").col_values(0, start_rowx=0, end_rowx=None)

@@ -7,6 +7,8 @@ import time
 --获取时间：time() ctime() gmtime() localtime()
 --时间格式化：strftime() strptime()
 --程序计时：sleep() perf_counter()
+
+
 -------获取时间 -------
 -- time()  获取当前时间戳，即计算机内部的时间值，是浮点数
 -- ctime() 获取当前时间，并以易读方式返回，返回字符串

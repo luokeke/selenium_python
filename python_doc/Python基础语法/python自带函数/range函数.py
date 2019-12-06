@@ -4,8 +4,9 @@
 # @Author : liuhuiling
 
 '''range()函数，产生循环计数序列
-range(n) 产生0到n-1的整数序列，共n个
-range(m,n) 产生m到n-1的整数序列，n-m个
+range(n) 从0至n-1循环计数，产生0到n-1的整数序列，共n个
+range(m,n) 从m至n-1循环计数，产生m到n-1的整数序列，n-m个
+range(m,n,k) 从m至根据步长k，循环计数。
 '''
 # 两种使用方法
 range(5) #表示  0  1  2  3  4
