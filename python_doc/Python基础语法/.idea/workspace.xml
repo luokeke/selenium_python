@@ -2,33 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8e2a0b9-696e-4ecf-9dba-c0abb5d41be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1.python程序语法元素/程序的基本编写方法IPO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.基本数据类型/字符串str/字符串问题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.基本数据类型/字符串str/逆序输出.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc课后练习/hello的条件输出.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc课后练习/五角星绘制.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc课后练习/数字转中文.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc课后练习/绘制同切圆.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mooc课后练习/货币转换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python自带函数/input函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/制作日历.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/我的错误.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/日历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.python基本图形绘制/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.python程序语法元素/命名和保留字.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.python程序语法元素/命名和保留字.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.python程序语法元素/缩进.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.python程序语法元素/缩进.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.基本数据类型/列表list/列表.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.基本数据类型/列表list/列表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.基本数据类型/字符串str/字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.基本数据类型/字符串str/字符串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.基本数据类型/数字类型/运算符_加减乘除余-整数除.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.基本数据类型/数字类型/运算符_加减乘除余-整数除.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datetime.now().py" beforeDir="false" afterPath="$PROJECT_DIR$/datetime.now().py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc课后练习/恺撒密码.py" beforeDir="false" afterPath="$PROJECT_DIR$/mooc课后练习/恺撒密码.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc课堂练习/1.温度转换_tempconvert.py" beforeDir="false" afterPath="$PROJECT_DIR$/mooc课堂练习/1.温度转换_tempconvert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mooc课堂练习/tempconvert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mooc课堂练习/2.绘制蟒蛇_drawSnake.py" beforeDir="false" afterPath="$PROJECT_DIR$/mooc课堂练习/2.绘制蟒蛇_drawSnake.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python标准库/time库.py" beforeDir="false" afterPath="$PROJECT_DIR$/python标准库/time库.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python自带函数/eval函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/python自带函数/eval函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python自带函数/range函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/python自带函数/range函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/倒序输出.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python标准库/turtle库-海龟绘图.py" beforeDir="false" afterPath="$PROJECT_DIR$/python标准库/turtle库-海龟绘图.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +15,47 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mooc课堂练习/2.绘制蟒蛇_drawSnake.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python标准库/turtle库-海龟绘图.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#131#144#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practice.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mooc课后练习/绘制同切圆.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,7 +71,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/自带函数/lambda函数.py" />
-        <option value="$PROJECT_DIR$/mooc课堂练习/2.绘制蟒蛇_drawSnake.py" />
         <option value="$PROJECT_DIR$/函数和代码复用/函数的定义.py" />
         <option value="$PROJECT_DIR$/mooc课堂练习/5.1七段数码管.py" />
         <option value="$PROJECT_DIR$/mooc课堂练习/5.1七段数码管v1.py" />
@@ -73,7 +90,6 @@
         <option value="$PROJECT_DIR$/5.函数和代码复用/模块化思维.py" />
         <option value="$PROJECT_DIR$/python标准库/PyInstaller库.py" />
         <option value="$PROJECT_DIR$/mooc课堂练习/5.2科赫雪花v1.py" />
-        <option value="$PROJECT_DIR$/python标准库/turtle库-海龟绘图.py" />
         <option value="$PROJECT_DIR$/mooc课堂练习/5.1七段数码管v2.py" />
         <option value="$PROJECT_DIR$/mooc课堂练习/5.2科赫雪花kochDrawv1.py" />
         <option value="$PROJECT_DIR$/mooc课后练习/随机密码生成.py" />
@@ -102,15 +118,17 @@
         <option value="$PROJECT_DIR$/python自带函数/input函数.py" />
         <option value="$PROJECT_DIR$/hello的条件输出.py" />
         <option value="$PROJECT_DIR$/python自带函数/range函数.py" />
+        <option value="$PROJECT_DIR$/mooc课堂练习/2.绘制蟒蛇_drawSnake.py" />
+        <option value="$PROJECT_DIR$/python标准库/turtle库-海龟绘图.py" />
         <option value="$PROJECT_DIR$/practice.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="801" />
-    <option name="y" value="260" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="770" />
+    <option name="y" value="110" />
     <option name="width" value="1103" />
-    <option name="height" value="737" />
+    <option name="height" value="915" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -131,13 +149,22 @@
             <path>
               <item name="Python基础语法" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python基础语法" type="462c0819:PsiDirectoryNode" />
-              <item name="3.基本数据类型" type="462c0819:PsiDirectoryNode" />
+              <item name="2.python基本图形绘制" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python基础语法" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python基础语法" type="462c0819:PsiDirectoryNode" />
-              <item name="3.基本数据类型" type="462c0819:PsiDirectoryNode" />
-              <item name="字符串str" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc课后练习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python基础语法" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python基础语法" type="462c0819:PsiDirectoryNode" />
+              <item name="mooc课堂练习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python基础语法" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python基础语法" type="462c0819:PsiDirectoryNode" />
+              <item name="python标准库" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python基础语法" type="b2602c69:ProjectViewProjectNode" />
@@ -178,8 +205,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.practice">
-    <configuration name="列表转换为字典" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.绘制同切圆">
+    <configuration name="绘制同切圆" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据结构" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,11 +214,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.基本数据类型" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mooc课后练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.基本数据类型/列表转换为字典.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mooc课后练习/绘制同切圆.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +227,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="注释" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2.绘制蟒蛇_drawSnake" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据结构" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,11 +235,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.python程序语法元素" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mooc课堂练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.python程序语法元素/注释.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mooc课堂练习/2.绘制蟒蛇_drawSnake.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -454,11 +481,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.绘制同切圆" />
         <item itemvalue="Python.practice" />
+        <item itemvalue="Python.2.绘制蟒蛇_drawSnake" />
         <item itemvalue="Python.input函数" />
         <item itemvalue="Python.eval函数" />
-        <item itemvalue="Python.注释" />
-        <item itemvalue="Python.列表转换为字典" />
       </list>
     </recent_temporary>
   </component>
@@ -498,10 +525,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="448" y="46" width="1240" height="907" extended-state="0" />
+    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.343594" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.14857745" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32939914" />
@@ -509,8 +537,8 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.42043984" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.43984476" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.18669528" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4388412" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -543,13 +571,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="程序的控制" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mooc课后练习/n!.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mooc课后练习/斐波那契数列.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -598,16 +619,6 @@
           <caret line="62" selection-start-line="62" selection-end-line="63" selection-end-column="26" />
           <folding>
             <element signature="e#300#313#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python标准库/turtle库-海龟绘图.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#131#144#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -738,13 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mooc课后练习/绘制同切圆.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -882,10 +886,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mooc课堂练习/2.绘制蟒蛇_drawSnake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc课后练习/绘制同切圆.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python标准库/turtle库-海龟绘图.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#131#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="231">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>

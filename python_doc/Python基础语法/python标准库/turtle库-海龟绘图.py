@@ -7,7 +7,8 @@
 import turtle
 from turtle import  *
 '''
-turtle.setup(width,height,startx,starty)  width,height窗体宽高;startx,starty窗体在屏幕中位置
+turtle.setup(width,height,startx,starty)  
+    width,height窗体宽高;startx,starty窗体在屏幕中位置
     turtle.setup(800,400,0,0)    窗体出现在屏幕左上方
     turtle.setup(800,400)    窗体出现在屏幕中间
 
