@@ -13,7 +13,7 @@ import time
 
 - 添加元素 list.append("www_zzidc_com") 
 - 删除元素 del list[0] 
-- 截取列表 list[i:] 从第i+1个元素开始截取列表
+- 截取列表 list[i:] 从第i个元素开始截取列表，从0开始计数的
 
 Python列表脚本操作符      列表对 + 和 * 的操作符与字符串相似。+ 号用于组合列表，* 号用于重复列表。
 

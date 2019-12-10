@@ -3,15 +3,26 @@
 # @Time : 2019/12/6 10:05
 # @Author : liuhuiling
 
-#绘制同心圆
+def prime(mun):
+    for j in range(2, mun + 1):
+        if mun % j == 0 and mun != j:
+            break
+    else:
+        return True
 
-import turtle
-turtle.pencolor("yellow")
-turtle.circle(100)
-turtle.penup()
-turtle.seth(-90)
-turtle.fd(100)
-turtle.seth(0)
-turtle.pendown()
-turtle.pencolor("blue")
-turtle.circle(200)
+n = eval(input())
+m = int(n)
+m = m +1 if m <n else m
+mm =  ""
+count = 5
+while count > 5:
+    if prime(m) is True:
+        list.append(m)
+    count
+    m += 1
+for i in list:
+    mm = mm +","+str(i)
+print(mm[1:])
+
+
+
