@@ -28,4 +28,5 @@ try:
         print(B.pop(), end="")
 except:
     pass
+print("\n{}".format(B))
 
