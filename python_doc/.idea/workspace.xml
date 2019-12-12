@@ -2,20 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="905b568d-f3dd-4e9e-ab2d-0d3d237110de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/数据结构/mooc课后练习/100之内素数之和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/mooc课后练习/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/mooc课后练习/三位水仙花数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/mooc课后练习/四位玫瑰数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/mooc课后练习/整数的加减和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/mooc课后练习/用户的三次登录机会.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/mooc课堂练习/4.2圆周率的计算_CalpiV2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/mooc课堂练习/4.2圆周率的计算_CalpiV1.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/mooc课堂练习/4.2圆周率的计算_CalpiV1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/数据类型/列表转换为字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/数据类型/列表转换为字典.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/数据类型/字符串str/字符串.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/数据类型/字符串str/字符串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/数据类型/字符串str/字符串操作.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/数据类型/数字类型/运算符_加减乘除余-整数除.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/数据类型/数字类型/运算符_加减乘除余-整数除.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/字典dictionary/字典处理函数及方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/序列_列表list_元组tuple/序列类型定义.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础语法/mooc课堂练习/6.1基本统计值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础语法/mooc课堂练习/6.2文本词频统计.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础语法/mooc课堂练习/6.2文本词频统计v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础语法/mooc课堂练习/hamlet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础语法/mooc课堂练习/threekingdoms.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础语法/python标准库/jieba库.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../program/股票价格记录.xls" beforeDir="false" afterPath="$PROJECT_DIR$/../program/股票价格记录.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/元组tuple/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/元组tuple/元组.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/序列_列表list_元组tuple/元组.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/列表list/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/序列_列表list_元组tuple/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/列表list/列表.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/序列_列表list_元组tuple/列表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/字典dictionary/字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/字典dictionary/字典.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/集合set/集合.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/集合set/集合.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/集合set/集合处理方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/集合set/集合处理方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/集合set/集合数据去重.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/集合set/集合数据去重.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/集合set/集合间操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/集合set/集合间操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/datetime.now().py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/python标准库/time库.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/python标准库/time库.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/制作日历.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/制作日历.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/日历.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/日历.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/相关练习/Site_站点更新/123.spec" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +35,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -60,9 +71,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-5" />
-    <option name="y" value="54" />
+    <option name="y" value="91" />
     <option name="width" value="1699" />
-    <option name="height" value="979" />
+    <option name="height" value="942" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -72,7 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -80,15 +90,21 @@
               <item name="python_doc" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_doc" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python_doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_doc" type="462c0819:PsiDirectoryNode" />
+              <item name="Python基础语法" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -232,7 +248,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="54" width="1699" height="979" extended-state="0" />
+    <frame x="-5" y="91" width="1699" height="942" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28537026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -261,5 +277,15 @@
     <entry file="file://$PROJECT_DIR$/API_test/api_Basic Auth.py" />
     <entry file="file://$PROJECT_DIR$/API_test/上传文件.py" />
     <entry file="file://$PROJECT_DIR$/API_test/request_show_仓库.py" />
+    <entry file="file://$PROJECT_DIR$/相关练习/Site_站点更新/xlrd-doc.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/相关练习/Site_站点更新/zhandiangengxin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

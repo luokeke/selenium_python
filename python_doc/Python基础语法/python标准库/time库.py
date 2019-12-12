@@ -23,10 +23,11 @@ time.strftime("%Y-%m-%d %H:%M:%S",time.localtime())
 """
 -------时间格式化 -------
 -- strftime(format,t)  format 是格式化模板字符串，用来定义输出效果，t是计算机内部时间变量
+-- strptime(string,format) string 是字符串形式的时间值，format是格式化模板字符串，用来定义输入效果
+
 t=time.gmtime()
 print(time.strftime("%Y-%m-%d %H:%M:%S",t)) #2019-11-26 09:48:36  注意大小写
 
--- strptime(string,format) string 是字符串形式的时间值，format是格式化模板字符串，用来定义输入效果
 strftime(format,t)   strptime(string,format)  互补，效果刚好相反。
 
 时间格式化控制符：
@@ -45,21 +46,17 @@ strftime(format,t)   strptime(string,format)  互补，效果刚好相反。
 %I              小时（12h制）     01-12，例如：7
 %p              上/下午            AM,PM,例如：PM
 """
-
 t=time.gmtime()
 print(time.strftime("%Y-%m-%d %H:%M:%S",t)) #2019-11-27 01:24:56  注意大小写
 timeStr = '2019-11-26 09:48:36'
 print(time.strptime(timeStr,"%Y-%m-%d %H:%M:%S"))
 #time.struct_time(tm_year=2019, tm_mon=11, tm_mday=26, tm_hour=9, tm_min=48, tm_sec=36, tm_wday=1, tm_yday=330, tm_isdst=-1)
-
 '''
 ------   程序计时 ------
 --  指测量起止动作所经历时间的过程
 --  测量时间 perf_counter() 返回一个CPU级别的精确时间计数值，单位为秒，由于这个计数值
     起点不确定，连续调用差值才有意义 
 --  产生时间 sleep(s) s 拟休眠的时间，单位是秒，可以是浮点数。
-
-
 '''
 #定义一个起始时间，后面的每一次调用都是基于最开始一次调用的时间之后，两次差值得到流逝时间
 start = time.perf_counter()

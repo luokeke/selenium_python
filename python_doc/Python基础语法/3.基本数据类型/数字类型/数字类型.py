@@ -26,7 +26,7 @@ print(pow(2,10))
     4.3e-3 （4.3* e的-3次幂）  值为 0.0043
 '''
 '''
-复数类型  只有python提供复数类型
+复数类型 complex  只有python提供复数类型
 --  x2 = -1 x是多少
 --  定义 j = √(-1)根号-1
 --  a+bj 被称为复数，其中，a是实部，b是虚部
@@ -34,3 +34,4 @@ print(pow(2,10))
 z = 1.23e-4+5.6e+89j
 print(z.real) #获得实部
 print(z.imag) #获得虚部
+print(type(z)) #complex

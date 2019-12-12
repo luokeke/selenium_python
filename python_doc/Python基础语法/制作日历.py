@@ -48,68 +48,18 @@ g_lunar_month = [
 from datetime import date, datetime
 from calendar import Calendar as Cal
 
-START_YEAR = 1901
+START_YEAR = 1901  #tm的格式
 
-def is_leap_year(tm):
-    y = tm.year
-    return (not (y % 4)) and (y % 100) or (not (y % 400))
-
-def show_month(tm):
-    (ly, lm, ld) = get_ludar_date(tm)
-    print()
-    print(u"%d年%d月%d日" % (tm.year, tm.month, tm.day), week_str(tm),)
-    print(u"\t农历：", y_lunar(ly), m_lunar(lm), d_lunar(ld))
-    print()
-    print(u"日\t一\t二\t三\t四\t五\t六")
-
-    c = Cal()
-    ds = [d for d in c.itermonthdays(tm.year, tm.month)]
-    count = 0
-    for d in ds:
-        print_str = ''
-        if count == 0 and 0 in ds:
-            print_str += '\t'
-            count += 1
-        if d == 0:
-            print(print_str + '"\t",')
-            continue
-        (ly, lm, ld) = get_ludar_date(datetime(tm.year, tm.month, d))
-        if count % 7 == 0:
-            print()
-        d_str = str(d)
-        if d == tm.day:
-            d_str = u"*" + d_str
-        print(d_str + d_lunar(ld) + 'u"\t",')
-    print()
-def this_month():
-    show_month(datetime.now())
-# www.iplaypython.com
-
-def week_str(tm):
-    a = u'星期一 星期二 星期三 星期四 星期五 星期六 星期日'.split()
-    return a[tm.weekday()]
-def d_lunar(ld):
-    a = u'初一 初二 初三 初四 初五 初六 初七 初八 初九 初十\
-         十一 十二 十三 十四 十五 十六 十七 十八 十九 廿十\
-         廿一 廿二 廿三 廿四 廿五 廿六 廿七 廿八 廿九 三十'.split()
-    return a[ld - 1]
-def m_lunar(lm):
-    a = u'正月 二月 三月 四月 五月 六月 七月 八月 九月 十月 十一月 十二月'.split()
-    return a[lm - 1]
-def y_lunar(ly):
-    y = ly
-    tg = u'甲 乙 丙 丁 戊 己 庚 辛 壬 癸'.split()
-    dz = u'子 丑 寅 卯 辰 巳 午 未 申 酉 戌 亥'.split()
-    sx = u'鼠 牛 虎 免 龙 蛇 马 羊 猴 鸡 狗 猪'.split()
-    return tg[(y - 4) % 10] + dz[(y - 4) % 12] + u' ' + sx[(y - 4) % 12] + u'年'
 def date_diff(tm):
     return (tm - datetime(1901, 1, 1)).days
+
 def get_leap_month(lunar_year):
-    flag = g_lunar_month[(lunar_year - START_YEAR) / 2]
+    flag = g_lunar_month[(lunar_year - START_YEAR) // 2]
     if (lunar_year - START_YEAR) % 2:
         return flag & 0x0f
     else:
         return flag >> 4
+
 def lunar_month_days(lunar_year, lunar_month):
     if (lunar_year < START_YEAR):
         return 30
@@ -168,5 +118,49 @@ def get_ludar_date(tm):
     # 计算日
     day += span_days
     return (year, month, day)
+# www.iplaypython.com
+def week_str(tm):
+    a = '星期一 星期二 星期三 星期四 星期五 星期六 星期日'.split()
+    return a[tm.weekday()]
+def d_lunar(ld):
+    a = '初一 初二 初三 初四 初五 初六 初七 初八 初九 初十\
+         十一 十二 十三 十四 十五 十六 十七 十八 十九 廿十\
+         廿一 廿二 廿三 廿四 廿五 廿六 廿七 廿八 廿九 三十'.split()
+    return a[ld - 1]
+def m_lunar(lm):
+    a = '正月 二月 三月 四月 五月 六月 七月 八月 九月 十月 十一月 十二月'.split()
+    return a[lm - 1]
+def y_lunar(ly):
+    y = ly
+    tg = '甲 乙 丙 丁 戊 己 庚 辛 壬 癸'.split()
+    dz = '子 丑 寅 卯 辰 巳 午 未 申 酉 戌 亥'.split()
+    sx = '鼠 牛 虎 免 龙 蛇 马 羊 猴 鸡 狗 猪'.split()
+    return tg[(y - 4) % 10] + dz[(y - 4) % 12] + u' ' + sx[(y - 4) % 12] + u'年'
+def show_month(tm):
+    (ly, lm, ld) = get_ludar_date(tm)
+    print("%d年%d月%d日" % (tm.year, tm.month, tm.day), week_str(tm),)
+    print("\t农历：", y_lunar(ly), m_lunar(lm), d_lunar(ld))
+    print("日\t一\t二\t三\t四\t五\t六")
+    c = Cal()
+    ds = [d for d in c.itermonthdays(tm.year, tm.month)]
+    count = 0
+    for d in ds:
+        print_str = ''
+        if count == 0 and 0 in ds:
+            print_str += '\t'
+            count += 1
+        if d == 0:
+            print(print_str + "\t")
+            continue
+        (ly, lm, ld) = get_ludar_date(datetime(tm.year, tm.month, d))
+        if count % 7 == 0:
+            print()
+        d_str = str(d)
+        if d == tm.day:
+            d_str = u"*" + d_str
+        print(d_str + d_lunar(ld) + "\t")
+    print()
+def this_month():
+    show_month(datetime.now())
 # 功能简单，只打印当月的
 this_month()
