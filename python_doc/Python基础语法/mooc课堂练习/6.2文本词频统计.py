@@ -18,7 +18,7 @@ def getText():
         txt = txt.replace(ch, " ")  #特殊字符替换成空格
     return txt
 hamletTxt = getText()
-words = hamletTxt.split()
+words = hamletTxt.split()#默认根据空格将字符串分隔成列表
 counts = {}
 for word in words:
     counts[word] = counts.get(word,0) + 1 #不在字典中就加入，次数加1；在次数+1
