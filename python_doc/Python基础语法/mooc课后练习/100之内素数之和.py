@@ -10,13 +10,12 @@
 输入输出示例   	输入	输出
 示例 1	 	    无      1234（这是示例，不是真实输出）
 '''
-# sum = 0
-# for i in range(2,101):
-#     for j in range(2, i + 1):
-#         if i % j == 0 and i != j:
-#             break
-#     else:
-#         sum += i
-# print(sum)
+sum = 0
+for i in range(2,101):
+    for j in range(2, i + 1):
+        if i % j == 0 and i != j:
+            break
+    else:
+        sum += i
+print(sum)
 
-print(type(1.2))

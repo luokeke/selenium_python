@@ -18,6 +18,7 @@ def getNum():
         nums.append(eval(iNumStr))
         iNumStr = input("请输入数字(回车退出)：")
     return nums
+
 #计算平均值
 def mean(numbers):
     s = 0.0

@@ -3,19 +3,18 @@
 # @Time : 2019/9/4 10:03
 # @Author : liuhuiling
 import xlrd
-# guonei =['www_zzidc_com', 'mc_zzidc_com','ssp_kuaiyun_cn','www_kuaiyun_cn','mc_kuaiyun_cn','pubgl_zzidc_com','beian_zzidc_com,']
-# guoji = ['www_zzidc_hk', 'mc_zzidc_hk']
-# guojitask = ['zjtask_zzidc_hk','dbtask_zzidc_hk','vctask_zzidc_hk','csafetask_zzidc_hk']
-# guoneitask = ['oa_task_zhiguan360_cn','VCBtask_kuaiyun_cn']
+guonei =['www_zzidc_com', 'mc_zzidc_com','ssp_kuaiyun_cn','www_kuaiyun_cn','mc_kuaiyun_cn','pubgl_zzidc_com','beian_zzidc_com,']
+guoji = ['www_zzidc_hk', 'mc_zzidc_hk']
+guojitask = ['zjtask_zzidc_hk','dbtask_zzidc_hk','vctask_zzidc_hk','csafetask_zzidc_hk']
+guoneitask = ['oa_task_zhiguan360_cn','VCBtask_kuaiyun_cn']
 
-
-# 列表获取 excel元素  https://www.cnblogs.com/insane-Mr-Li/p/9092619.html
-fname = '更新站点.xlsx'#设置文件名和路径
-date = xlrd.open_workbook(fname)# 打开文件
-guonei = date.sheet_by_name("国内").col_values(0, start_rowx=0, end_rowx=None)
-guoji = date.sheet_by_name("国际").col_values(0, start_rowx=0, end_rowx=None)
-guoneitask = date.sheet_by_name("国内task").col_values(0, start_rowx=0, end_rowx=None)
-guojitask = date.sheet_by_name("国际task").col_values(0, start_rowx=0, end_rowx=None)
+# # 列表获取 excel元素  https://www.cnblogs.com/insane-Mr-Li/p/9092619.html
+# fname = '更新站点.xlsx'#设置文件名和路径
+# date = xlrd.open_workbook(fname)# 打开文件
+# guonei = date.sheet_by_name("国内").col_values(0, start_rowx=0, end_rowx=None)
+# guoji = date.sheet_by_name("国际").col_values(0, start_rowx=0, end_rowx=None)
+# guoneitask = date.sheet_by_name("国内task").col_values(0, start_rowx=0, end_rowx=None)
+# guojitask = date.sheet_by_name("国际task").col_values(0, start_rowx=0, end_rowx=None)
 GN = []
 HK = []
 GNTASK = []

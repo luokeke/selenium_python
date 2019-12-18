@@ -18,10 +18,6 @@ len(dict)           返回字典dict中元素的个数
 
 dict.keys()/dict.values(),不返回列表类型，返回的是字典的keys和values类型
 可以用for in 方式做遍历，但是不能当做列表类型来操作
-
-
-
-
 '''
 dict = {"中国":"北京","美国":"华盛顿","法国":"巴黎"}
 print(type(dict.keys())) #<class 'dict_keys'>

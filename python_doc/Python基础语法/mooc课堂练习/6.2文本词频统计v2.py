@@ -11,6 +11,7 @@ for word in words:
         continue
     else:
         counts[word] = counts.get(word,0) + 1 #不在字典中就加入，次数加1；在次数+1
+        #dict.get(k,default) 键k存在，则返回相应值，不存在则返回默认值None  或设置的default值 （默认值）
 items = list(counts.items())
 items.sort(key=lambda x:x[1],reverse=True) #排序
 for i in range(15):

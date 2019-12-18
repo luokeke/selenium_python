@@ -53,7 +53,7 @@ list.index(obj) 从列表中找出某个值第一个匹配项的索引位置
 list.copy() 生成一个新列表，赋值ls中所有元素
 list.reverse()      将列表中元素反转，逆序
 
-list.sort(cmp=None, key=None, reverse=False)    对原列表进行排序
+list.sort(cmp=None, key=None, reverse=False)    对原列表进行排序 list.sort(key=lambda x:x[1],reverse=True)
 list.count(obj) 统计某个元素在列表中出现的次数
 
 在列表中如果我们使用list()/[],那么我们真正的创建了一个列表，如果使用赋值,只是重新命名，还是同一个列表
