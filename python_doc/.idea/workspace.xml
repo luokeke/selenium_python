@@ -2,31 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="905b568d-f3dd-4e9e-ab2d-0d3d237110de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/字典dictionary/字典处理函数及方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/序列_列表list_元组tuple/序列类型定义.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python基础语法/mooc课堂练习/6.1基本统计值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python基础语法/mooc课堂练习/6.2文本词频统计.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python基础语法/mooc课堂练习/6.2文本词频统计v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python基础语法/mooc课堂练习/hamlet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python基础语法/mooc课堂练习/threekingdoms.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python基础语法/python标准库/jieba库.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../program/股票价格记录.xls" beforeDir="false" afterPath="$PROJECT_DIR$/../program/股票价格记录.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础语法/7.文件和数据格式化/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础语法/7.文件和数据格式化/文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python基础语法/mooc课后练习/给你画个小心心.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/相关练习/打包成exe文件/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python基础语法/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/元组tuple/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/元组tuple/元组.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/序列_列表list_元组tuple/元组.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/列表list/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/序列_列表list_元组tuple/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/列表list/列表.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/序列_列表list_元组tuple/列表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/1.python程序语法元素/and-or.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/1.python程序语法元素/and-or.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/2.python基本图形绘制/turtle库-海龟绘图.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/2.python基本图形绘制/turtle库-海龟绘图.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/3.基本数据类型/字符串str/字符串处理方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/3.基本数据类型/字符串str/字符串处理方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/5.函数和代码复用/def函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/5.函数和代码复用/代码复用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/5.函数和代码复用/代码复用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/5.函数和代码复用/函数的定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/5.函数和代码复用/函数的定义.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/字典dictionary/字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/字典dictionary/字典.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/集合set/集合.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/集合set/集合.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/集合set/集合处理方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/集合set/集合处理方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/集合set/集合数据去重.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/集合set/集合数据去重.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/集合set/集合间操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/6.组合数据类型/集合set/集合间操作.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python基础语法/datetime.now().py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Python基础语法/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python基础语法/python标准库/time库.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/python标准库/time库.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python基础语法/制作日历.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/制作日历.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python基础语法/日历.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/日历.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/相关练习/Site_站点更新/123.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python基础语法/python标准库/PyInstaller库-打包.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python基础语法/python标准库/PyInstaller库-打包.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/相关练习/打包成exe文件/dist/sevendigitdraw.exe" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,24 +48,16 @@
         <option value="$PROJECT_DIR$/API_test/api_Header.py" />
         <option value="$PROJECT_DIR$/API_test/api_Basic Auth.py" />
         <option value="$PROJECT_DIR$/API_test/上传文件.py" />
+        <option value="$PROJECT_DIR$/Python基础语法/python标准库/PyInstaller库-打包.py" />
+        <option value="$PROJECT_DIR$/Python基础语法/practice.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/doc.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-5" />
-    <option name="y" value="91" />
-    <option name="width" value="1699" />
-    <option name="height" value="942" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="415" />
+    <option name="y" value="82" />
+    <option name="width" value="1195" />
+    <option name="height" value="979" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -83,28 +67,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="python_doc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_doc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_doc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_doc" type="462c0819:PsiDirectoryNode" />
-              <item name="Python基础语法" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/相关练习/打包成exe文件" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GITHUB\selenium_python\python_doc\相关练习\打包成exe文件" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -118,7 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.上传文件">
+  <component name="RunManager" selected="Python.practice">
     <configuration name="上传文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="doc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,27 +156,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="api_form" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="doc" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API_test/api_form.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="api_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="doc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,13 +177,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="doc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python基础语法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python基础语法/practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.practice" />
         <item itemvalue="Python.上传文件" />
         <item itemvalue="Python.api_Basic Auth" />
         <item itemvalue="Python.api_Header" />
         <item itemvalue="Python.api_json" />
-        <item itemvalue="Python.api_form" />
       </list>
     </recent_temporary>
   </component>
@@ -248,15 +222,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="91" width="1699" height="942" extended-state="0" />
+    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28537026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36331362" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3143777" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39975247" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -285,6 +259,25 @@
         <state relative-caret-position="264">
           <caret line="23" column="23" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="23" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python基础语法/practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python基础语法/python标准库/PyInstaller库-打包.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/相关练习/打包成exe文件/sevendigitdraw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1489" />
       </provider>
     </entry>
   </component>

@@ -2,10 +2,9 @@
 # -*- coding: utf-8 -*-
 # @Time : 2019/11/27 15:19
 # @Author : liuhuiling
-
-'''turtle库的使用,python标准库，无需再次安装'''
 import turtle
 from turtle import  *
+'''turtle库的使用,python标准库，无需再次安装'''
 '''
 turtle.setup(width,height,startx,starty)  
     width,height窗体宽高;startx,starty窗体在屏幕中位置
@@ -24,5 +23,27 @@ turtle.right(angle)
 
 RGB色彩体系 0-255  0-1小数值标识
 turtle.colormode(mode) 颜色
+颜色填充函数
+-设定填充色：fillecolor(r, g, b) 
+-开始填充：begin_fill() 
+-结束填充：end_fill()
 
+更多参考：
+https://www.cnblogs.com/yudanqu/p/8683794.html
+https://blog.csdn.net/Galaxy__42/article/details/80764648
+Turtle库颜色填充：
+https://blog.csdn.net/zhengzuotian/article/details/79946226
 '''
+
+import turtle as t
+t.title("画个太阳")
+t.setup(800,600,100,100)
+t.pensize(5)
+t.color("red")
+t.pencolor("red")
+t.begin_fill()
+t.fillcolor("red")
+t.circle(100)
+t.end_fill()
+t.hideturtle()
+t.done()

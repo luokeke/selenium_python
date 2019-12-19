@@ -49,7 +49,7 @@ list.pop(i)    移除列表中第i位置的元素，并且返回该元素的值�
 list.remove(obj)    将列表中出现的第一个元素x删除
 list.clear() 删除列表中所有元素
 
-list.index(obj) 从列表中找出某个值第一个匹配项的索引位置
+list.index(obj) 从列表中找出某个值第一个匹配项的索引位置 #obj非列表元素时会报错 ValueError: 0 is not in list
 list.copy() 生成一个新列表，赋值ls中所有元素
 list.reverse()      将列表中元素反转，逆序
 

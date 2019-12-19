@@ -53,9 +53,10 @@ def drawDate(date):# date为日期，格式未'%Y-%m=%d+'获得要输出的数�
         else:
             drawDigit(eval(i))
 def main():  #主函数，设置初始值及结束信息等
-    turtle.setup(800,350,200,200) #设定画布
+    turtle.setup(850,350,200,200) #设定画布
     turtle.penup()
-    turtle.fd(-300)#设定画笔初始位置
+    turtle.speed(100)
+    turtle.fd(-330)#设定画笔初始位置
     turtle.pensize(5)
     # drawDate("20200101")#设定绘制数字
     drawDate(strftime("%Y-%m=%d+", gmtime()))#设定绘制数字

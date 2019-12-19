@@ -8,8 +8,8 @@ print()
 - 键值对：键是数据索引的扩展
 - 字典是键值对的集合，键值对之间无序
 - 采用{}和dic()创建，键值对用冒号:分隔
-- dict[key]方式既可以索引，也可以赋值
-- de = {} 创建一个空的字典
+- dict[key]方式既可以索引，也可以赋值  dict[key]="值"
+- dict = {} 创建一个空的字典
 
 值可以取任何数据类型，但键必须是唯一不可变的，如字符串，数字或元组,不能用列表。
 dict = {key1 : value1, key2 : value2 }
@@ -29,6 +29,7 @@ dict = {key1 : value1, key2 : value2 }
 a  ={'name':'limei',"age":2}
 a["name"] ="lilei"
 num = a["age"]
+print(num) #2
 print(a)                #{'age': 2, 'name': 'lilei'}
 print(list(a.items()))        #dict_items([('age', 2), ('name', 'lilei')])
 print (a["age"])        #2

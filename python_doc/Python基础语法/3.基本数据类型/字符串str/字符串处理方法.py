@@ -21,6 +21,7 @@ str.strip(chars) 从str中去掉在其左侧和右侧chars中列出的字符
 str.join(iter) 在iter变量除最后元素外每个元素后增加一个str, 类似均匀插入分隔符  
         print(','.join("abcABC")) #a,b,c,A,B,C
 fromat()函数格式化
+str.index(obj) 从字符串str中找出某个值第一个匹配项的索引位置 #obj非字符串元素时会报错 ValueError: substring not found
 
 Python split()方法分割字符串 ： https://www.cnblogs.com/jsdd/p/11613121.html
 '''
