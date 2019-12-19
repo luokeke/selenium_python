@@ -2,13 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time : 2019/11/21 14:08
 # @Author : liuhuiling
-
-#熟悉技术的产品经理，
-
-print (9 > 9) and (9 < 9) # False
-print (9 > 8) or (8 > 9)  # True
-print (not ((9 > 9) and (9 < 9)) )# True
-
+print()
 '''
 Python逻辑运算符  不仅仅返回布尔值，还可以返回数值
 以下假设变量 a 为 10, b为 20:
@@ -23,3 +17,7 @@ print(10 and 20) #20
 print(10 or 20) #10
 print(0 or 25) #25
 print(not b) #False
+
+print (9 > 9) and (9 < 9) # False
+print (9 > 8) or (8 > 9)  # True
+print (not ((9 > 9) and (9 < 9)) )# True
