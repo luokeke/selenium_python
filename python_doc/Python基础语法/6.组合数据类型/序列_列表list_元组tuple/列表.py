@@ -10,14 +10,7 @@ import time
 - 列表中元素类型可以不同，无长度限制
 
 使用保留字 in 判断一个元素是否在列表中
-列表和元组
 进行的操作包括 索引[]，切片[m,n,k]，加 + ，乘 * ，检查成员 in
-
-- 添加元素 list.append("www_zzidc_com") 
-- 删除元素 del list[0] 
-- 截取列表 list[i:] 从第i个元素开始截取列表，从0开始计数的
-
-Python列表脚本操作符      列表对 + 和 * 的操作符与字符串相似。+ 号用于组合列表，* 号用于重复列表。
 
 Python表达式               	结果            	           描述
 len([1, 2, 3])              3	                           长度
@@ -26,10 +19,18 @@ len([1, 2, 3])              3	                           长度
 3 in [1, 2, 3]	            True	                       元素是否存在于列表中
 for x in [1, 2, 3]: print x,	1 2 3	                   迭代
 
+
+- 添加元素 list.append("www_zzidc_com") 
+- 删除元素 del list[0] 
+- 截取列表 list[i:] 从第i个元素开始截取列表，从0开始计数的
+
+Python列表脚本操作符      列表对 + 和 * 的操作符与字符串相似。+ 号用于组合列表，* 号用于重复列表。
+
+
 Python列表函数/方法
 函数
 list[i] = x          替换列表list第i元素为x
-list[i:j:k] =lt      用列表lt替换llist切片后所对应的元素子列表 
+list[i:j:k] =lt      用列表lt替换llist切片后所对应的元素子列表
 del list[i]          删除列表list中第i元素
 del list[i:j:k]      删除列表list中第i到第j以k为步长的元素
 list += lt           更新列表list，将列表lt元素增加到列表list中
