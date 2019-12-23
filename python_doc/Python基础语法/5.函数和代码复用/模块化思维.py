@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time : 2019/12/2 15:30
 # @Author : liuhuiling
+import time
 '''
 - 模块化思维：确定模块接口，封装功能
 - 规则化思维：抽象过程未规则，计算机自动执行

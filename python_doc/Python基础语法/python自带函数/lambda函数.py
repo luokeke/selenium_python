@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time : 2019/12/2 9:53
 # @Author : liuhuiling
+print()
 '''
 labmda函数返回函数名作为结果
 - lambda函数是一种匿名函数，即没有名字的函数

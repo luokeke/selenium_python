@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8e2a0b9-696e-4ecf-9dba-c0abb5d41be3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6.组合数据类型/对象.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.函数和代码复用/函数的定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.函数和代码复用/函数的定义.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.函数和代码复用/函数递归.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.函数和代码复用/函数递归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.函数和代码复用/分而治之.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.函数和代码复用/分而治之.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.函数和代码复用/模块化思维.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.函数和代码复用/模块化思维.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,11 +32,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5.函数和代码复用/函数的定义.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+            <state relative-caret-position="429">
+              <caret line="61" column="39" lean-forward="true" selection-start-line="61" selection-start-column="39" selection-end-line="61" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.函数和代码复用/函数递归.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5.函数和代码复用/分而治之.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5.函数和代码复用/模块化思维.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -63,9 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/制作日历.py" />
-        <option value="$PROJECT_DIR$/123.py" />
-        <option value="$PROJECT_DIR$/mooc课堂练习/文本词频统计.py" />
         <option value="$PROJECT_DIR$/6.组合数据类型/集合set/集合.py" />
         <option value="$PROJECT_DIR$/6.组合数据类型/集合set/集合间操作.py" />
         <option value="$PROJECT_DIR$/6.组合数据类型/序列_列表list_元组tuple/序列类型定义.py" />
@@ -114,6 +138,9 @@
         <option value="$PROJECT_DIR$/6.组合数据类型/对象.py" />
         <option value="$PROJECT_DIR$/5.函数和代码复用/class类和方法.py" />
         <option value="$PROJECT_DIR$/5.函数和代码复用/函数的定义.py" />
+        <option value="$PROJECT_DIR$/5.函数和代码复用/函数递归.py" />
+        <option value="$PROJECT_DIR$/5.函数和代码复用/分而治之.py" />
+        <option value="$PROJECT_DIR$/5.函数和代码复用/模块化思维.py" />
       </list>
     </option>
   </component>
@@ -182,7 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.class类和方法">
+  <component name="RunManager" selected="Python.6.2文本词频统计">
     <configuration name="循环的高级用法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据结构" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,6 +223,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.程序的控制结构/循环的高级用法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6.2文本词频统计" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据结构" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mooc课堂练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mooc课堂练习/6.2文本词频统计.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6.2文本词频统计v3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据结构" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mooc课堂练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mooc课堂练习/6.2文本词频统计v3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -477,27 +546,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="逻辑运算符and_not_or" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="数据结构" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.基本数据类型/运算符" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.基本数据类型/运算符/逻辑运算符and_not_or.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="class类和方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据结构" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -511,27 +559,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.函数和代码复用/class类和方法.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="成员运算符in_not in" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="数据结构" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.基本数据类型/运算符" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.基本数据类型/运算符/成员运算符in_not in.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -563,11 +590,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6.2文本词频统计" />
+        <item itemvalue="Python.6.2文本词频统计v3" />
         <item itemvalue="Python.class类和方法" />
         <item itemvalue="Python.循环的高级用法" />
         <item itemvalue="Python.practice" />
-        <item itemvalue="Python.成员运算符in_not in" />
-        <item itemvalue="Python.逻辑运算符and_not_or" />
       </list>
     </recent_temporary>
   </component>
@@ -634,13 +661,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="程序的控制" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1.python程序语法元素/命名和保留字.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.python程序语法元素/程序的基本编写方法IPO.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-528">
@@ -931,24 +951,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6.组合数据类型/对象.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.函数和代码复用/函数递归.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1386" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.函数和代码复用/分而治之.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.函数和代码复用/模块化思维.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/5.函数和代码复用/class类和方法.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -963,10 +965,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/6.组合数据类型/对象.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7.文件和数据格式化/文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/5.函数和代码复用/函数的定义.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+        <state relative-caret-position="429">
+          <caret line="61" column="39" lean-forward="true" selection-start-line="61" selection-start-column="39" selection-end-line="61" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.函数和代码复用/函数递归.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.函数和代码复用/分而治之.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.函数和代码复用/模块化思维.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
