@@ -19,7 +19,7 @@ str.replace(old,new) 返回字符串的副本，所有old子串被替换为new
 str.center(width[,fillchar]) 字符串str根据宽度width居中，如果需要的话，就用fillchar进行填充，默认是空格。
 str.strip(chars) 从str中去掉在其左侧和右侧chars中列出的字符
 str.join(iter) 在iter变量除最后元素外每个元素后增加一个str, 类似均匀插入分隔符  
-        print(','.join("abcABC")) #a,b,c,A,B,C
+        print(','.join("abcABC")) #a,b,c,A,B,C iter可以是列表、元组
 fromat()函数格式化
 str.index(obj) 从字符串str中找出某个值第一个匹配项的索引位置 #obj非字符串元素时会报错 ValueError: substring not found
 
@@ -43,3 +43,6 @@ print(str.split())#['abcABC']
 print(str1.split(sep=","))#['a', 'b', 'c'] 以，为分隔符，把字符串转换为列表
 print(str2.split( ))# ['a', 'b', 'c']  以空格为分隔符，把字符串转换为列表
 print(str2.split(sep=" "))# ['a', 'b', 'c']  以空格为分隔符，把字符串转换为列表   和上面等同
+
+print(" ".join(["中国","美国","日本"])) #中国 美国 日本
+print(type(" ".join(["中国","美国","日本"]))) #<class 'str'>

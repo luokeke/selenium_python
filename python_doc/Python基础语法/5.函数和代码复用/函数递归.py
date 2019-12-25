@@ -54,7 +54,6 @@ def f(n):
     else:
         return f(n-1)+f(n-2)
 #汉诺塔问题
-
 count = 0
 def haoni(n,src,dst,mid): # n圆盘数量，src源柱子，dst目标柱子，mid过渡柱子
     global count
