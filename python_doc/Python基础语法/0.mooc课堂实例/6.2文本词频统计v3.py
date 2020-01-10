@@ -3,7 +3,9 @@
 # @Time : 2019/12/13 10:39
 # @Author : liuhuiling
 import jieba
-txt = open("threekingdoms.txt","r",encoding="utf-8").read()
+from os.path import abspath,dirname
+project_path = dirname(dirname(abspath(__file__)))
+txt = open(project_path+"\\0.素材\\threekingdoms.txt","r",encoding="utf-8").read()
 excludes = {"将军","却说","荆州","二人","不可","不能","如此","商议","如何","军士"}
 #,"今日","于是","东吴","天下","大喜","次日","引兵","军马","左右"
 words = jieba.lcut(txt)

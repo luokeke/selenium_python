@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time : 2019/12/19 19:05
 # @Author : liuhuiling
-
+print()
 '''
 Python位运算符
 按位运算符是把数字看作二进制来进行计算的。Python中的按位运算法则如下：

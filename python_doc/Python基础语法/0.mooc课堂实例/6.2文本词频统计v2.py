@@ -3,7 +3,9 @@
 # @Time : 2019/12/12 15:10
 # @Author : liuhuiling
 import jieba
-txt = open("threekingdoms.txt","r",encoding="utf-8").read()
+from os.path import abspath,dirname
+project_path = dirname(dirname(abspath(__file__)))
+txt = open(project_path+"\\0.素材\\threekingdoms.txt","r",encoding="utf-8").read()
 words = jieba.lcut(txt)
 counts = {}
 for word in words:

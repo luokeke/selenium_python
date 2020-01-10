@@ -10,8 +10,10 @@ https://python123.io/resources/pye/hamlet.txt
 - 中文文本：《三国演义》 分析人物
 https://python123.io/resources/pye/threekingdoms.txt
 '''
+from os.path import abspath,dirname
+project_path = dirname(dirname(abspath(__file__)))
 def getText():
-    txt = open("hamlet.txt","r").read()
+    txt = open(project_path+"\\0.素材\\hamlet.txt","r").read()
     txt = txt.lower()
     for ch in '!"#$%&()*+,-./:;<=>?@[\\]^_‘{|}~ ':
         txt = txt.replace(ch, " ")  #特殊字符替换成空格

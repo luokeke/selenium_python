@@ -17,19 +17,21 @@ print(list(map(eval,a.split(","))))
     分别为：行进距离，转向判断，转向角度，RGB三个通道颜色（0-1之间浮点数）
     184,0,72,1,0,1
 '''
+from os.path import dirname,abspath
 import turtle as t
+project_path = dirname(dirname(abspath(__file__)))
 t.title("自动轨迹绘制")
 t.setup(800,600,0,0)
 t.pensize(5)
 t.pencolor("red")
 #数据读取
 datals = []
-f = open("drawdata.txt")
+f = open(project_path+"\\0.素材\\drawdata.txt")
 for line in f :
     line = line.replace("\n","")
     datals.append(list(map(eval,line.split(","))))
 f.close()
-print(datals)
+# print(datals)
 #自动轨迹绘制
 for i in range(len(datals)):
     t.pencolor(datals[i][3],datals[i][4],datals[i][5])

@@ -24,7 +24,7 @@ and or not
 is in as with
 if else elif 
 while for  finally 
-break  contine  pass
+break  continue  pass
 from import   del
 class def  return
 try raise  except

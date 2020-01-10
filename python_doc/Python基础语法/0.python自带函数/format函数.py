@@ -2,36 +2,40 @@
 # -*- coding: utf-8 -*-
 # @Time : 2019/11/22 0:22
 # @Author : liuhuiling
-
-name='玲玲'
-age = 29
-print("name is : {}, age is : {}  " .format(name,age))  #结果：name is : 玲玲, age is : 29
-C = 3.023
-print("转换后的温度值为：{: .2f}".format(C)) #结果：转换后的温度值为： 3.02
-print("{: ,.2f}".format(12345.6789)) #结果：12,345.68
-
+print("{1}----{0}".format(1,3))
+print("浮点数{:*^25.2f}和字符串{}".format(123.4567,456.789123,"Hello World!"))
+# 浮点数*********123.46**********和字符串456.789123
+# {:*^25.2f} 其中{}为占位槽   :为引导符号  *为填充符号  ^表示居中对齐 25为设定的输出宽度  .2表示输出精度    f表示为浮点数类型
 '''
-参考链接：https://www.runoob.com/python/att-string-format.html
-print 用fromat()函数格式化
-{} 为槽，占位符
--- :    引导符号
--- 填充   用于填充的单个字符
--- 对齐   左对齐<  右对齐>  居中对齐^
--- 宽度   槽设定的输出宽度
-print("{0:=^20}".format("PYTHON"))  #结果  =======PYTHON=======
-# :=^20，= 填充符号，^居中对齐，20输出宽度
-print("{:^3.0f}%[{} -> {}]".format(c,a,b))
--- , 数字的千位分隔符
--- .精度    浮点数小数精度或字符串最大输出长度  例如 .2f  
--- 类型 整数类型 b,c,d,o,x,X  浮点数类型 e,E,f,%
-print("{: ,.2f}".format(12345.6789)) #结果：12,345.68
-'''
+fromat()函数格式化
+    {}     为槽，占位符
+    :      冒号为引导符号
+    填充   用于填充的单个字符  常用 = - * .
+    对齐   ^居中  <左对齐  >右对齐，后面带宽度
+    宽度   槽设定的输出宽度
+    ,       数字的千位分隔符
+    .数字   浮点数小数精度或字符串最大输出长度,后面必须跟类型  例如 .2f .3s
+    类型 整数类型 c ASCII码 ,b二进制,d整数,o八进制,x,X 十六进制  浮点数类型 e科学计数,E,f浮点数,%百分数  字符串类型s
+
+Python format 格式化函数  
+    参考链接：https://www.runoob.com/python/att-string-format.html 
+              https://www.cnblogs.com/-wenli/p/10952827.html
+              https://www.jianshu.com/p/a120d475dbaf'''
+
+print("{0:=^20}".format("PYTHON"))  #结果  =======PYTHON=======  # "0" 不是必须的
+#   :=^20，:引导符号  = 填充符号，^居中对齐，20输出宽度
+
+my_list = ['菜鸟教程', 'www.runoob.com']
+print("网站名：{0[0]}, 地址 {0[1]}".format(my_list))  # "0" 是必须的
+
+print("{:*^50.3f}".format(123.456789))
+
 '''以某一字符填充，两种表示方法'''
 #输出  =======PYTHON=======
 print("{0:=^20}".format("PYTHON"))   # :=^20，= 填充符号，^居中对齐，20输出宽度
 print("PYTHON".center(20,"="))#字符串str根据宽度width居中，如果需要的话，就用fillchar进行填充，默认是空格。
 
-'''format还能这样用 推荐'''
+'''format还能这样用 推荐------使用位置参数'''
 name = '玲玲'
 age = 29
 job = "面包师"
