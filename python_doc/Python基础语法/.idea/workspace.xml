@@ -2,90 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8e2a0b9-696e-4ecf-9dba-c0abb5d41be3" name="Default Changelist" comment="程序的控制">
-      <change afterPath="$PROJECT_DIR$/0.mooc课后练习/7.文本的平均列数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.mooc课堂实例/9.1霍兰德人格分析雷达图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.mooc课堂实例/9.2玫瑰花绘制.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.素材/fivestart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.素材/latex.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.素材/运行结果/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.python程序语法元素/课程安排.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.python程序语法元素/跨目录调用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.python计算生态概览/Flask_举例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.python计算生态概览/NLTK_举例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.python计算生态概览/PyGObject实例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.python计算生态概览/PyPDF2_整合两个PDF文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.python计算生态概览/Pyramid_举例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.python计算生态概览/Python-Goose_举例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.python计算生态概览/Python-docx_举例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.python计算生态概览/TensorFlow_举例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.python计算生态概览/requests_简单举例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.python计算生态概览/werobot举例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.python计算生态概览/从web解析到网络空间.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.python计算生态概览/从人机交互到艺术设计.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.python计算生态概览/从数据处理到人工智能.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.python计算生态概览/想法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9.python计算生态概览/霍兰德举一反三.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test1/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/1.温度转换_tempconvert.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/1.温度转换_tempconvert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/2.绘制蟒蛇_drawSnake.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/2.绘制蟒蛇_drawSnake.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/3.1天天向上的力量.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/3.1天天向上的力量.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/3.2进度条v1_TextProBar.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/3.2进度条v1_TextProBar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/3.2进度条v2_单行动态刷新.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/3.2进度条v2_单行动态刷新.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/3.2进度条v3.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/3.2进度条v3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/3.2进度条设计函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/3.2进度条设计函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/3.3WeekNamePrintv1.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/3.3WeekNamePrintv1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/3.3WeekNamePrintv2.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/3.3WeekNamePrintv2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/3.3WeekNamePrintv3.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/3.3WeekNamePrintv3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/4.1身体质量指数CalBMIv1.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/4.1身体质量指数CalBMIv1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/4.1身体质量指数CalBMIv2.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/4.1身体质量指数CalBMIv2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/4.2圆周率的计算_CalpiV1.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/4.2圆周率的计算_CalpiV1_蒙特卡罗方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/4.2圆周率的计算_CalpiV2.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/4.2圆周率的计算_CalpiV2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/5.1七段数码管v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/5.1七段数码管v1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/5.1七段数码管v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/5.1七段数码管v2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/5.2科赫雪花kochDrawv1.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/5.2科赫雪花kochDrawv1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/6.1基本统计值.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/6.1基本统计值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/6.2文本词频统计.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/6.2文本词频统计.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/6.2文本词频统计v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/6.2文本词频统计v2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/6.2文本词频统计v3.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/6.2文本词频统计v3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/7.1自动轨迹绘制_AutoTraceDraw.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/7.1自动轨迹绘制_AutoTraceDraw.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/7.2三国演义词云.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/7.2三国演义词云.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/7.2政府工作报告词云_GovRptWordCloud.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/7.2政府工作报告词云_GovRptWordCloud.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/7.2政府工作报告词云_GovRptWordCloudv2.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/7.2政府工作报告词云_GovRptWordCloudv2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/7.2汉姆雷特词云.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/7.2汉姆雷特词云.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/8.1体育竞技分析_MatchAnalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/8.1体育竞技分析_MatchAnalysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/8.2第三方库自动安装脚本.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/8.2第三方库自动安装脚本.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/9.1霍兰德人格分析雷达图.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/drawSnake.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.mooc课堂实例/drawSnake.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/drawdata.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0.素材/drawdata.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/fivestart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/grwordcloud.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/grwordcloud01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/hamlet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/hamlet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0.素材/hamlet.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/msyh.ttc" beforeDir="false" afterPath="$PROJECT_DIR$/0.素材/msyh.ttc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/practice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/simfang.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/0.素材/simfang.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/threekingdoms.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/threekingdoms.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0.素材/threekingdoms.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/仿宋_GB2312.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.mooc课堂练习/新时代中国特色社会主义.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0.素材/新时代中国特色社会主义.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.python标准库/常用第三方库.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.python标准库/常用第三方库.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.python自带函数/format函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.python自带函数/format函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.python程序语法元素/python计算生态主站.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.python程序语法元素/python计算生态主站.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.python程序语法元素/命名和保留字.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.python程序语法元素/命名和保留字.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.基本数据类型/数字类型/数字类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.基本数据类型/数字类型/数字类型.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.基本数据类型/运算符/位运算符.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.基本数据类型/运算符/位运算符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.文件和数据格式化/computerlanguage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.文件和数据格式化/t.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0.素材/t.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.文件和数据格式化/仿宋_GB2312.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.python计算生态概览/python计算生态概览.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,8 +15,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1.python程序语法元素/程序的基本编写方法IPO.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="792">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -107,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3.基本数据类型/数字类型/数字类型.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+            <state relative-caret-position="1122">
+              <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -116,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0.python自带函数/format函数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-231">
+            <state relative-caret-position="561">
               <caret line="17" column="69" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
             </state>
           </provider>
@@ -125,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="13" selection-start-line="13" selection-end-line="15" selection-end-column="25" />
+            <state relative-caret-position="514">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -134,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3.基本数据类型/运算符/位运算符.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-66">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="330">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -149,16 +66,14 @@
         <entry file="file://$PROJECT_DIR$/3.基本数据类型/运算符/算术运算符.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3.基本数据类型/数字类型/数值运算函数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-198" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -243,9 +158,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="121" />
-    <option name="y" value="85" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="140" />
+    <option name="y" value="99" />
     <option name="width" value="1155" />
     <option name="height" value="898" />
   </component>
@@ -342,6 +257,27 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.practice">
+    <configuration name="三位水仙花数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据结构" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据类型/mooc课后练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据类型/mooc课后练习/三位水仙花数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="9.2玫瑰花绘制" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据结构" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -426,7 +362,70 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="三位水仙花数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="位运算符" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据结构" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.基本数据类型/运算符" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.基本数据类型/运算符/位运算符.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="序列类型定义" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据结构" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.组合数据类型/序列_列表list_元组tuple" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.组合数据类型/序列_列表list_元组tuple/序列类型定义.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="日历" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据结构" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/日历.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="整数的加减和" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据结构" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -438,7 +437,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据类型/mooc课后练习/三位水仙花数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据类型/mooc课后练习/整数的加减和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -573,90 +572,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="位运算符" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="数据结构" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.基本数据类型/运算符" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.基本数据类型/运算符/位运算符.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="序列类型定义" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="数据结构" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.组合数据类型/序列_列表list_元组tuple" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.组合数据类型/序列_列表list_元组tuple/序列类型定义.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="日历" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="数据结构" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/日历.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="整数的加减和" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="数据结构" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据类型/mooc课后练习" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据类型/mooc课后练习/整数的加减和.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据结构" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -745,7 +660,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="193" y="166" width="1155" height="898" extended-state="0" />
+    <frame x="140" y="99" width="1155" height="898" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1019,10 +934,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/3.基本数据类型/运算符/成员运算符in_not in.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.mooc课堂实例/3.2进度条v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1.python程序语法元素/程序的基本编写方法IPO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="792">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.基本数据类型/数字类型/数字类型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.python自带函数/format函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="17" column="69" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.基本数据类型/运算符/位运算符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -1032,50 +978,17 @@
     <entry file="file://$PROJECT_DIR$/3.基本数据类型/运算符/算术运算符.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.基本数据类型/数字类型/数值运算函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.基本数据类型/运算符/成员运算符in_not in.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.基本数据类型/运算符/位运算符.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0.mooc课堂实例/3.2进度条v3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0.python自带函数/format函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-231">
-          <caret line="17" column="69" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.基本数据类型/数字类型/数字类型.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="13" selection-start-line="13" selection-end-line="15" selection-end-column="25" />
+        <state relative-caret-position="514">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
