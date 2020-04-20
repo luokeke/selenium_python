@@ -2,24 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e5a2f0a-aa95-4d7e-a5d5-90165c3ec576" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_doc/Python基础语法/7.文件和数据格式化/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_doc/Python基础语法/7.文件和数据格式化/文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_doc/Python基础语法/mooc课后练习/给你画个小心心.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_doc/相关练习/打包成exe文件/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_fenxi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_doc/ActionChains简介.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_doc/B站滑块登录.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_doc/jdlogin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_doc/jingdongtupian/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_doc/jingdongtupian/code0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_doc/jingdongtupian/code1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_doc/jingdongtupian/code2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_doc/jingdongtupian/code3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_doc/jingdongtupian/code4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_doc/jingdongtupian/code5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_doc/jingdongtupian/code6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_doc/jingdongtupian/code7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_doc/jingdongtupian/code8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_doc/jingdongtupian/code9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_doc/定位两个图片不同的x轴距离.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_doc/按百分比缩小图片.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_doc/比较两张图片是否相同.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium_doc/缩小图片到指定像素大小.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/1.python程序语法元素/and-or.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/1.python程序语法元素/and-or.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/2.python基本图形绘制/turtle库-海龟绘图.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/2.python基本图形绘制/turtle库-海龟绘图.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/字符串str/字符串处理方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/字符串str/字符串处理方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/def函数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/代码复用.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/代码复用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/函数的定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/函数的定义.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/6.组合数据类型/字典dictionary/字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/6.组合数据类型/字典dictionary/字典.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/python标准库/PyInstaller库-打包.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/python标准库/PyInstaller库-打包.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/相关练习/打包成exe文件/dist/sevendigitdraw.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_doc/相关练习/打包成exe文件/sevendigitdraw.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/相关练习/打包成exe文件/sevendigitdraw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_doc/Python基础语法/0.素材/运行结果/hamlet.png" beforeDir="false" afterPath="$PROJECT_DIR$/python_doc/Python基础语法/0.素材/运行结果/hamlet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_doc/TEST/Register/zhuce/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_doc/TEST/Register/zhuce-tupianshibie/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_doc/TEST/Register/zhuce/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_doc/TEST/Register/zhuce-tupianshibie/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_doc/TEST/Register/zhuce/增强图片识别率.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_doc/TEST/Register/zhuce-tupianshibie/增强图片识别率.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_doc/TEST/Register/zhuce/截图.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_doc/TEST/Register/zhuce-tupianshibie/截图.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_doc/TEST/Register/zhuce/获取手机注册验证码.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_doc/TEST/Register/zhuce-tupianshibie/获取手机注册验证码.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_doc/TEST/Register/zhuce/识别验证码自动登陆.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_doc/TEST/Register/zhuce-tupianshibie/识别验证码自动登陆.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_doc/等待时间.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_doc/等待时间.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_doc/自动登陆.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_doc/自动登陆.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_doc/鼠标悬停.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_doc/鼠标悬停.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +40,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="selenium_python" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,6 +52,22 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SliderVerificationCode</find>
+      <find>geetest_slider_button</find>
+      <find>EC</find>
+      <find>left</find>
+      <find>object</find>
+      <find>find_element_by_id</find>
+      <find>x</find>
+      <find>链式</find>
+      <find>JDJRV-bigimg.png</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\GITHUB\selenium_python\python_doc\Python基础语法</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,14 +87,37 @@
         <option value="$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/代码复用.py" />
         <option value="$PROJECT_DIR$/python_doc/Python基础语法/6.组合数据类型/字典dictionary/字典.py" />
         <option value="$PROJECT_DIR$/python_doc/相关练习/打包成exe文件/sevendigitdraw.py" />
+        <option value="$PROJECT_DIR$/登录.py" />
+        <option value="$PROJECT_DIR$/sadj.py" />
+        <option value="$PROJECT_DIR$/selenium_doc/ActionChains简介.py" />
+        <option value="$PROJECT_DIR$/bili.py" />
+        <option value="$PROJECT_DIR$/bilisdfa.py" />
+        <option value="$PROJECT_DIR$/bilibili.py" />
+        <option value="$PROJECT_DIR$/selenium_doc/Bzhan_huakuailogin.py" />
+        <option value="$PROJECT_DIR$/selenium_doc/B站滑块登录.py" />
+        <option value="$PROJECT_DIR$/selenium_doc/TEST/Register/zhuce-tupianshibie/截图.py" />
+        <option value="$PROJECT_DIR$/sdfa.py" />
+        <option value="$PROJECT_DIR$/123.py" />
+        <option value="$PROJECT_DIR$/suoxiao.py" />
+        <option value="$PROJECT_DIR$/xiagnsusuoxiao.py" />
+        <option value="$PROJECT_DIR$/location.py" />
+        <option value="$PROJECT_DIR$/比较两张图片是否相同.py" />
+        <option value="$PROJECT_DIR$/446.py" />
+        <option value="$PROJECT_DIR$/jdlogin.py" />
+        <option value="$PROJECT_DIR$/lianxi.py" />
+        <option value="$PROJECT_DIR$/113.py" />
+        <option value="$PROJECT_DIR$/selenium_doc/鼠标悬停.py" />
+        <option value="$PROJECT_DIR$/selenium_doc/自动登陆.py" />
+        <option value="$PROJECT_DIR$/selenium_doc/等待时间.py" />
+        <option value="$PROJECT_DIR$/chognshi.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="415" />
-    <option name="y" value="82" />
-    <option name="width" value="1195" />
-    <option name="height" value="979" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="484" />
+    <option name="y" value="126" />
+    <option name="width" value="623" />
+    <option name="height" value="912" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -74,6 +129,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -85,7 +141,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -96,9 +151,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GITHUB\selenium_python" />
       <recent name="E:\GITHUB\selenium_python\python_doc\相关练习\打包成exe文件" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GITHUB\selenium_python\selenium_doc" />
+      <recent name="E:\GITHUB\selenium_python\selenium_doc\jingdongtupian" />
+      <recent name="E:\GITHUB\selenium_python" />
       <recent name="E:\GITHUB\selenium_python\python_doc\Python基础语法" />
       <recent name="E:\GITHUB\selenium_python\python_doc\函数和代码复用" />
     </key>
@@ -115,29 +174,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sevendigitdraw">
-    <configuration name="参数化" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="selenium_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Program Files (x86)\python\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doc" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doc/参数化.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="字典" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.chognshi">
+    <configuration name="113" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,74 +183,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_doc/Python基础语法/6.组合数据类型/字典dictionary" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_doc/Python基础语法/6.组合数据类型/字典dictionary/字典.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="列表转换为字典" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="selenium_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_doc/Python基础语法/6.组合数据类型" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_doc/Python基础语法/6.组合数据类型/列表转换为字典.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="selenium_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_doc/Python基础语法" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_doc/Python基础语法/practice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="register_jingan" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="selenium_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Program Files (x86)\python\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/register_jingan.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/113.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sevendigitdraw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="446" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,11 +204,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_doc/相关练习/打包成exe文件" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_doc/相关练习/打包成exe文件/sevendigitdraw.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/446.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chognshi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="selenium_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chognshi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jdlogin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="selenium_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\GITHUB\selenium_python\selenium_doc\jdlogin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lianxi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="selenium_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lianxi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,10 +282,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sevendigitdraw" />
-        <item itemvalue="Python.practice" />
-        <item itemvalue="Python.register_jingan" />
-        <item itemvalue="Python.参数化" />
+        <item itemvalue="Python.chognshi" />
+        <item itemvalue="Python.113" />
+        <item itemvalue="Python.lianxi" />
+        <item itemvalue="Python.jdlogin" />
+        <item itemvalue="Python.446" />
       </list>
     </recent_temporary>
   </component>
@@ -264,177 +303,328 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_sadj_py - 2020.03.10 at 13h 56m 49s.xml">
+      <configuration name="Unittests in sadj.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_sadj_Python2jd - 2020.03.10 at 14h 03m 20s.xml">
+      <configuration name="Unittests for sadj.Python2jd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_sadj_Python2jd - 2020.03.10 at 14h 25m 11s.xml">
+      <configuration name="Unittests for sadj.Python2jd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_sadj_Python2jd - 2020.03.10 at 14h 25m 47s.xml">
+      <configuration name="Unittests for sadj.Python2jd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_sadj_Python2jd - 2020.03.10 at 14h 26m 59s.xml">
+      <configuration name="Unittests for sadj.Python2jd" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
+    <frame x="484" y="126" width="623" height="912" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25342464" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49892703" visible="true" weight="0.5589744" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.50107294" side_tool="true" weight="0.15778251" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37660944" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.35604113" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32939914" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32939914" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32939914" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.13948497" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32725322" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32081544" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32939914" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32939914" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32939914" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.13948497" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32725322" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/doc/参数化.py" />
-    <entry file="file://$PROJECT_DIR$/register_jingan.py" />
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/组合数据类型/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/python自带函数/range函数.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/code4.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/python自带函数/type函数.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/practice.py">
+    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/运算符/赋值运算符.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/相关练习/打包成exe文件.py" />
-    <entry file="file://$PROJECT_DIR$/python_doc/相关练习/打包成exe文件/5.1七段数码管v2.py" />
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/mooc课堂练习/5.1七段数码管v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/相关练习/Site_站点更新/zhandiangengxin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/字符串str/格式化字符.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/字符串str/逆序输出.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/字符串str/字符串处理函数.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/字符串str/字符串处理方法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="681">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/6.组合数据类型/序列_列表list_元组tuple/列表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/字符串str/字符串查找_find.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/3.基本数据类型/字符串str/字符串问题.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="169">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/6.组合数据类型/序列_列表list_元组tuple/元组.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        <state relative-caret-position="384">
+          <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/practice.py">
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/code8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/code6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/code5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/code9.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/code0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/code7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new-JDJRV-bigimg.png" />
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/code2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/缩小图片到指定像素大小.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/code1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/new-code7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/new-code6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/new-code5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/1JDJRV-bigimg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/定位两个图片不同的x轴距离.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/new-code8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://D:/Program Files (x86)/python/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/new-code9.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://D:/Program Files (x86)/python/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="563" selection-start-line="563" selection-end-line="563" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/new-code2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/new-code1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://D:/Program Files (x86)/python/Lib/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="2775" selection-start-line="2775" selection-end-line="2775" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/new-code4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/JDJRV-bigimg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/code3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/new-code3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/6.组合数据类型/序列_列表list_元组tuple/列表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/按百分比缩小图片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="e#96#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/比较两张图片是否相同.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1749">
+          <caret line="58" column="31" lean-forward="true" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+          <folding>
+            <element signature="e#97#123#0" expanded="true" />
+            <element signature="e#1241#1277#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/0JDJRV-bigimg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jingdongtupian/new-code0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/jdlogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/鼠标操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/鼠标悬停.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+          <folding>
+            <element signature="e#36#66#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/6.组合数据类型/列表转换为字典.py">
+    <entry file="file://$PROJECT_DIR$/selenium_doc/百度登录.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="561">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/def函数.py" />
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/4.程序的控制结构/循环的高级用法.py">
+    <entry file="file://$PROJECT_DIR$/selenium_doc/百度查询.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        <state relative-caret-position="264">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/代码复用.py">
+    <entry file="file://$PROJECT_DIR$/selenium_doc/生成测试报告.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="264">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/分而治之.py">
+    <entry file="file://$PROJECT_DIR$/selenium_doc/浏览器驱动.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/模块化思维.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/函数递归.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/class类和方法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/5.函数和代码复用/函数的定义.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="96" column="20" lean-forward="true" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/6.组合数据类型/字典dictionary/字典.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/Python基础语法/6.组合数据类型/字典dictionary/字典处理函数及方法.py">
+    <entry file="file://$PROJECT_DIR$/selenium_doc/新版selenium.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_doc/相关练习/打包成exe文件/sevendigitdraw.py">
+    <entry file="file://$PROJECT_DIR$/selenium_doc/操作元素.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/等待时间.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/自动登陆.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1762">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#38#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianxi.py" />
+    <entry file="file://$PROJECT_DIR$/446.py" />
+    <entry file="file://$PROJECT_DIR$/113.py" />
+    <entry file="file://$PROJECT_DIR$/selenium_doc/ActionChains简介.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="57" column="21" lean-forward="true" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_doc/B站滑块登录.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#95#125#0" expanded="true" />
+            <element signature="e#2472#2635#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chognshi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#95#121#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

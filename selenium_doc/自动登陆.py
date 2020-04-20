@@ -1,26 +1,23 @@
 # -*- coding: utf-8 -*-
 #Author：哈士奇说喵
 from imp import reload
-
 from selenium import webdriver
 import os
 import pytesser
-'''Windos平台可以直接去PIL官网下载exe安装包。http://pythonware.com/products/pil/
-注：官网提供的安装包是32位的，63位系统请前往这里 http://www.lfd.uci.edu/~gohlke/pythonlibs/#pillow 下载替代包pillow。'''
 import sys,time
 from PIL import Image,ImageEnhance
+'''Windos平台可以直接去PIL官网下载exe安装包。http://pythonware.com/products/pil/
+注：官网提供的安装包是32位的，63位系统请前往这里 http://www.lfd.uci.edu/~gohlke/pythonlibs/#pillow 下载替代包pillow。'''
+
 
 #shift+tab多行缩进(左)
 reload(sys)
 PostUrl = "https://beian.zzidc.com/main/toadminlogin"
-
 driver=webdriver.Firefox()
 driver.get(PostUrl)
 
-
 i=0
 while 1:#sb登录系统，即使输对所有消息还是登不进去的，需要登录两次及以上
-
     i=i+1
     try:
         elem_user = driver.find_element_by_name('id')
